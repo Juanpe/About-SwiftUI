@@ -99,6 +99,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI for React Native Developers](https://medium.com/@rorogadget/swiftui-for-react-native-developers-2072a21c22fb)** by [Rohan Panchal](https://twitter.com/rorogadget)
 * **[SwiftUI First Look: Building a Simple Table View App](https://www.appcoda.com/swiftui-first-look/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)** by [AppCoda](https://twitter.com/appcodamobile)
 * **[Will Storyboards still be alive?](https://medium.com/flawless-app-stories/storyboard-or-no-storyboard-d3ce6eda91eb)** by [Nabil Kazi](https://twitter.com/nQaze)
+* **🇫🇷 [Qu’est-ce que SwiftUI?](https://medium.com/@bachur.nicolas/introduction-%C3%A0-swiftui-bf2423d8b3ed)** by [Nicolas Bachur](https://medium.com/@bachur.nicolas)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!
