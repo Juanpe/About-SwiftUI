@@ -97,6 +97,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[Optionals in SwiftUI](https://medium.com/q42-engineering/swiftui-optionals-ead04edd439f)** by [Jasper Haggenburg](https://twitter.com/Jpunt)
 * **[Presenting UIViewControllers in SwiftUI](https://medium.com/@Johannes_Nevels/presenting-uiviewcontrollers-in-swiftui-22388616a24c)** by [Johannes Nevels](https://medium.com/@Johannes_Nevels)
 * **[SwiftUI for React Native Developers](https://medium.com/@rorogadget/swiftui-for-react-native-developers-2072a21c22fb)** by [Rohan Panchal](https://twitter.com/rorogadget)
+* **[injectable](https://github.com/vincent-pradeilles/injectable)**. A micro framework that leverages Swift Property Wrapper to implement the Service Locator pattern
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!
