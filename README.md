@@ -2,8 +2,11 @@
 
 Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examples, videos and tutorials have appeared. The goal of this repository is to gather all this information having an unique place where looking for info about **SwiftUI**.
 
+**SwiftUI** is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift. Build user interfaces for any Apple device using just one set of tools and APIs. With a declarative Swift syntax that’s easy to read and natural to write, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility means your first line of **SwiftUI** code is already the most powerful UI code you’ve ever written.
+
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/Juanpe/About-SwiftUI.svg?style=social)](https://twitter.com/intent/tweet?text=Wow%20This%20library%20is%20awesome:&url=https%3A%2F%2Fgithub.com%2FJuanpe%2FAbout-SwiftUI)
 
+### Table of contents
 
 * [ by Apple](#-by-apple)
   * [Beta Software](#-beta-software)
@@ -11,8 +14,10 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
   * [WWDC Videos](#-wwdc-videos)
   * [Tutorials](#-tutorials)
 * [By the community](#-by-the-community)
+  * [Books](#-books)
   * [Articles](#-articles)
-  * [Examples](#-examples)
+  * [Repositories](#-repositories)
+  * [Videos](#-videos)
 * [Contributing](#-contributing)
 
 ##  by Apple
@@ -67,6 +72,64 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 ## 🌎 by the community
 
+#### 📗 Books
+* **[Swift UI by Tutorials](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
+* **[Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
+* **[Catalyst by Tutorials](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
+
 #### 📰 Articles
 
-#### 📲 Examples
+* **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
+* **[Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
+* **[SwiftUI’s relationship to UIKit and AppKit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
+* **[Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
+* **[A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
+* **[Inside SwiftUI's Declarative Syntax's Compiler Magic](https://swiftrocks.com/inside-swiftui-compiler-magic.html)** by [Bruno Rocha](https://twitter.com/rockthebruno)
+* **[Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/)** by [Majid Jabrayilov](https://twitter.com/mecid)
+* **[SwiftUI Are we saying goodbye to IB(UIStoryboard)?](https://medium.com/@themedo8000/swiftui-are-we-saying-goodbye-to-ib-718035e83b07)** by [Mohammad Sawalha](https://medium.com/@themedo8000)
+* **[How To Make a Simple Countdown Timer with SwiftUI](https://medium.com/better-programming/make-a-simple-countdown-with-timer-and-swiftui-3ce355b54986)** by [Antoine Barrault](https://twitter.com/_ant_one)
+* **[Tutorial: How to setup a SwiftUI project](https://medium.com/@martinlasek/swiftui-getting-started-372389fff423)** by [Martin Lasek](https://twitter.com/MartinLasek)
+* **[What SwiftUI Means for Flutter](https://medium.com/flutter-nyc/what-swiftui-means-for-flutter-6d5898f7adf7)** by [Martin Rybak](https://twitter.com/martin_rybak)
+* **[Intro to SwiftUI](https://medium.com/@santoshbotre01/intro-to-swiftui-b285808842d5)** by [Santosh Botre](https://medium.com/@santoshbotre01)
+* **[SF Symbols in iOS 13](https://medium.com/@craiggrummitt/sf-symbols-in-ios-13-55e5febf6db6)** by [craiggrummitt](https://twitter.com/craiggrummitt)
+* **[Understanding SwiftUI in depth](https://medium.com/techtron/understanding-swiftui-in-depth-58d42614619e)** by [Balraj Singh](https://medium.com/@erbalrajs)
+* **[A Skeptics view on SwiftUI](https://medium.com/@JillevdWeerd/a-skeptics-view-on-swiftui-cc6636b6fd3b)** by [Jille van der Weerd](https://medium.com/@JillevdWeerd)
+* **[Optionals in SwiftUI](https://medium.com/q42-engineering/swiftui-optionals-ead04edd439f)** by [Jasper Haggenburg](https://twitter.com/Jpunt)
+* **[Presenting UIViewControllers in SwiftUI](https://medium.com/@Johannes_Nevels/presenting-uiviewcontrollers-in-swiftui-22388616a24c)** by [Johannes Nevels](https://medium.com/@Johannes_Nevels)
+* **[SwiftUI for React Native Developers](https://medium.com/@rorogadget/swiftui-for-react-native-developers-2072a21c22fb)** by [Rohan Panchal](https://twitter.com/rorogadget)
+
+#### 📦 Repositories
+* **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!
+* **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
+* **[DispatchStore](https://github.com/alexdrone/DispatchStore)**. Swift package that implements an operation based, multi-store à-la Flux for SwiftUI.
+* **[GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI)**. SwiftUI based GitHubSearch example.
+* **[SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB)**. SwiftUI MovieDB prototype app built with Xcode 11 Beta & macOS 10.15 Catalina.
+* **[WWDCPlayer](https://github.com/YOONMS/WWDCPlayer)**. 🤖 WWDC19 player using SwiftUI.
+* **[MyDogs](https://github.com/valvoline/MyDogs)**. A simple SwiftUI example for testing Lists, BindableObject, State management and Network.
+* **[MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)**. SwiftUI & Combine app using MovieDB API.
+* **[SwiftUI-Combine](https://github.com/ra1028/SwiftUI-Combine)**. This is an example project of SwiftUI and Combine using GitHub API.
+* **[SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel)**. An experimental time traveling state store for SwiftUI.
+* **[SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike)**. SwiftUI imitation app interface (Build Jike App with SwiftUI).
+* **[2048](https://github.com/unixzii/SwiftUI-2048)**. A 2048 game writing with SwiftUI.
+* **[SwiftUI-Landmarks](https://github.com/alexpaul/SwiftUI-Landmarks)**. Introducing SwiftUI. A declarative way to create User Interfaces with Swift.
+* **[SwiftUI-Flux](https://github.com/ra1028/SwiftUI-Flux)**. 🚀 This is a tiny experimental application using SwiftUI with Flux architecture.
+* **[SwiftUI-by-Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples)**. Examples of new SwiftUI framework.
+* **[SwiftUICalculator](https://github.com/hotchner/SwiftUICalculator)**. A calculator app using SwiftUI which is introduced in WWDC19.
+* **[InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI)**. Swift UI Demo for an instagram copy.
+* **[SwiftUITheme](https://github.com/bellots/SwiftUITheme)**. A first idea to style SwiftUI Views.
+* **[Lists_-_Navigation_SwiftUI](https://github.com/swifterH/Lists_-_Navigation_SwiftUI)**. Exploration of Apple Developer's SwiftUI tutorial, detailing how to build lists and enable navigation between views with #SwiftUI.
+
+#### 🖥 Videos
+* **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
+* **[How to Run SwiftUI on Mojave with Playgrounds and Sample Code](https://www.youtube.com/watch?v=VSvz62fGyYM)**
+* **[SwiftUI Basics: Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU)**
+* **[SwiftUI: Facebook Complex Layouts - Horizontal Scroll View](https://www.youtube.com/watch?v=7QgPpvqTfeo)**
+* **[SwiftUI Basics Tutorial](https://www.youtube.com/watch?v=IIDiqgdn2yo)**
+* **[SwiftUI App Tutorial - Lists, Navigation and JSON Data](https://www.youtube.com/watch?v=wbFuAs_UNYg)**
+* **[SwiftUI Presenting Data In A Scroll View & List](https://www.youtube.com/watch?v=wjqDQ3X5Vos)**
+* **[Intro To SwiftUI: Simple State Management](https://www.youtube.com/watch?v=AWPiup9fE2c)**
+* **[Before You Learn SwiftUI, You Need To Hear This...](https://www.youtube.com/watch?v=H9XyZ_F1tPI)**
+* **[SwiftUI = Mind-blow | WWDC iOS developer reaction](https://www.youtube.com/watch?v=fbuOxKqC5wQ)**
+* **[SwiftUI - DON'T LEARN IT (JUST YET)](https://www.youtube.com/watch?v=AKHsFNtANes)**
+* **[SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ)**
+* **[Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc)**
