@@ -3,7 +3,7 @@
 
 Since past Apple's keynote, SwiftUI was announced,
 
-* [ by Apple](#-by-apple)
+* [ by Apple](#-by-apple)
   * [Beta Software](#-beta-software)
   * [Documentation](#-documentation)
   * [WWDC Videos](#-wwdc-videos)
@@ -39,7 +39,7 @@ Since past Apple's keynote, SwiftUI was announced,
   * **Previews in Xcode**
     * **[Previews](https://developer.apple.com/documentation/swiftui/previews)**. Generate dynamic, interactive previews of your custom views.
 
-    #### 📹 WWDC videos
+#### 📹 WWDC videos
 
     * **[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)**
     * **[Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237)**
@@ -63,7 +63,7 @@ Since past Apple's keynote, SwiftUI was announced,
 * **[Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)**
 * **[Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)**
 
-## 🌎 By the community
+## 🌎 by the community
 
 #### 📰 Articles
 
