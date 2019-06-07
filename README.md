@@ -98,6 +98,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[Presenting UIViewControllers in SwiftUI](https://medium.com/@Johannes_Nevels/presenting-uiviewcontrollers-in-swiftui-22388616a24c)** by [Johannes Nevels](https://medium.com/@Johannes_Nevels)
 * **[SwiftUI for React Native Developers](https://medium.com/@rorogadget/swiftui-for-react-native-developers-2072a21c22fb)** by [Rohan Panchal](https://twitter.com/rorogadget)
 * **[SwiftUI First Look: Building a Simple Table View App](https://www.appcoda.com/swiftui-first-look/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)** by [AppCoda](https://twitter.com/appcodamobile)
+* **[Will Storyboards still be alive?](https://medium.com/flawless-app-stories/storyboard-or-no-storyboard-d3ce6eda91eb)** by [Nabil Kazi](https://twitter.com/nQaze)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!
@@ -121,6 +122,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUITheme](https://github.com/bellots/SwiftUITheme)**. A first idea to style SwiftUI Views.
 * **[Lists_-_Navigation_SwiftUI](https://github.com/swifterH/Lists_-_Navigation_SwiftUI)**. Exploration of Apple Developer's SwiftUI tutorial, detailing how to build lists and enable navigation between views with #SwiftUI.
 * **[injectable](https://github.com/vincent-pradeilles/injectable)**. A micro framework that leverages Swift Property Wrapper to implement the Service Locator pattern.
+* **[NetworkImage.swift](https://gist.github.com/ivanbruel/b2838f62cb281bd974ec9c9c121c6cbe)**. Basic NetworkImage support for SwiftUI via Kingfisher
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
