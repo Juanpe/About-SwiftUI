@@ -1,7 +1,7 @@
 ![](Assets/banner_about_swift.jpg)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/Juanpe/About-SwiftUI.svg?style=social)](https://twitter.com/intent/tweet?text=Wow%20This%20library%20is%20awesome:&url=https%3A%2F%2Fgithub.com%2FJuanpe%2FAbout-SwiftUI)
 
-Since past Apple's keynote, SwiftUI was announced,
+Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examples, videos and tutorials have appeared. The goal of this repository is to gather all this information having an unique place where looking for info about **SwiftUI**.
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/Juanpe/About-SwiftUI.svg?style=social)](https://twitter.com/intent/tweet?text=Wow%20This%20library%20is%20awesome:&url=https%3A%2F%2Fgithub.com%2FJuanpe%2FAbout-SwiftUI)
 
 * [ by Apple](#-by-apple)
   * [Beta Software](#-beta-software)
@@ -41,15 +41,15 @@ Since past Apple's keynote, SwiftUI was announced,
 
 #### 📹 WWDC videos
 
-    * **[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)**
-    * **[Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237)**
-    * **[Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238)**
-    * **[Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)**
-    * **[Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231)**
-    * **[Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)**
-    * **[SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)**
-    * **[SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240)**
-    * **[SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)**
+* **[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)**
+* **[Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237)**
+* **[Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238)**
+* **[Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)**
+* **[Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231)**
+* **[Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)**
+* **[SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)**
+* **[SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240)**
+* **[SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)**
 
 
 #### 👩🏼‍🏫 Tutorials
