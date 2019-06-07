@@ -139,6 +139,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI - DON'T LEARN IT (JUST YET)](https://www.youtube.com/watch?v=AKHsFNtANes)**
 * **[SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ)**
 * **[Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc)**
+* **[SwiftUI Tutorial (Swift UI Basics in 1 Video)](https://www.youtube.com/watch?v=IIDiqgdn2yo&ref=quuu)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
