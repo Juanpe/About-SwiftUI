@@ -101,6 +101,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
+* **[KeyboardAvoiding](https://github.com/a2/KeyboardAvoiding)**. A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets.
 * **[DispatchStore](https://github.com/alexdrone/DispatchStore)**. Swift package that implements an operation based, multi-store à-la Flux for SwiftUI.
 * **[GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI)**. SwiftUI based GitHubSearch example.
 * **[SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB)**. SwiftUI MovieDB prototype app built with Xcode 11 Beta & macOS 10.15 Catalina.
@@ -133,3 +134,6 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI - DON'T LEARN IT (JUST YET)](https://www.youtube.com/watch?v=AKHsFNtANes)**
 * **[SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ)**
 * **[Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc)**
+
+#### ❤️ Contributing
+Feel free to contribute!! This repo is yours.
