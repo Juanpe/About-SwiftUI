@@ -97,7 +97,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[Optionals in SwiftUI](https://medium.com/q42-engineering/swiftui-optionals-ead04edd439f)** by [Jasper Haggenburg](https://twitter.com/Jpunt)
 * **[Presenting UIViewControllers in SwiftUI](https://medium.com/@Johannes_Nevels/presenting-uiviewcontrollers-in-swiftui-22388616a24c)** by [Johannes Nevels](https://medium.com/@Johannes_Nevels)
 * **[SwiftUI for React Native Developers](https://medium.com/@rorogadget/swiftui-for-react-native-developers-2072a21c22fb)** by [Rohan Panchal](https://twitter.com/rorogadget)
-* **[injectable](https://github.com/vincent-pradeilles/injectable)**. A micro framework that leverages Swift Property Wrapper to implement the Service Locator pattern
+* **[SwiftUI First Look: Building a Simple Table View App](https://www.appcoda.com/swiftui-first-look/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)** by [AppCoda](https://twitter.com/appcodamobile)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!
@@ -120,6 +120,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI)**. Swift UI Demo for an instagram copy.
 * **[SwiftUITheme](https://github.com/bellots/SwiftUITheme)**. A first idea to style SwiftUI Views.
 * **[Lists_-_Navigation_SwiftUI](https://github.com/swifterH/Lists_-_Navigation_SwiftUI)**. Exploration of Apple Developer's SwiftUI tutorial, detailing how to build lists and enable navigation between views with #SwiftUI.
+* **[injectable](https://github.com/vincent-pradeilles/injectable)**. A micro framework that leverages Swift Property Wrapper to implement the Service Locator pattern.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
