@@ -100,6 +100,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI First Look: Building a Simple Table View App](https://www.appcoda.com/swiftui-first-look/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)** by [AppCoda](https://twitter.com/appcodamobile)
 * **[Will Storyboards still be alive?](https://medium.com/flawless-app-stories/storyboard-or-no-storyboard-d3ce6eda91eb)** by [Nabil Kazi](https://twitter.com/nQaze)
 * **🇫🇷 [Qu’est-ce que SwiftUI?](https://medium.com/@bachur.nicolas/introduction-%C3%A0-swiftui-bf2423d8b3ed)** by [Nicolas Bachur](https://medium.com/@bachur.nicolas)
+* **[RxSwift to Apple’s Combine “Cheat Sheet”](https://medium.com/gett-engineering/rxswift-to-apples-combine-cheat-sheet-e9ce32b14c5b)** by [Shai Mishali](https://twitter.com/freak4pc)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!
@@ -125,6 +126,8 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[injectable](https://github.com/vincent-pradeilles/injectable)**. A micro framework that leverages Swift Property Wrapper to implement the Service Locator pattern.
 * **[NetworkImage.swift](https://gist.github.com/ivanbruel/b2838f62cb281bd974ec9c9c121c6cbe)**. Basic NetworkImage support for SwiftUI via Kingfisher
 * **[SwiftUI-Combine-todo-example](https://github.com/jamfly/SwiftUI-Combine-todo-example)**. A to-do list app using SwiftUI and combine with restful api.
+* **[Bindings.swift](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8)**. Re-implementation of @binding and @State (from SwiftUI) myself to better understand it.
+* **[Contacts.swift](https://gist.github.com/jackhl/632935a2e90e3796e38c2143d5dadc96)**
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
