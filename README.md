@@ -128,6 +128,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI-Combine-todo-example](https://github.com/jamfly/SwiftUI-Combine-todo-example)**. A to-do list app using SwiftUI and combine with restful api.
 * **[Bindings.swift](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8)**. Re-implementation of @binding and @State (from SwiftUI) myself to better understand it.
 * **[Contacts.swift](https://gist.github.com/jackhl/632935a2e90e3796e38c2143d5dadc96)**
+* **[vinhnx/CombineUnsplash](https://github.com/vinhnx/CombineUnsplash)** Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explaination
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
