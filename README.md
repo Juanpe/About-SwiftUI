@@ -148,6 +148,9 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ)**
 * **[Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc)**
 * **[SwiftUI Tutorial (Swift UI Basics in 1 Video)](https://www.youtube.com/watch?v=IIDiqgdn2yo&ref=quuu)**
+* **[How To Create Views, Text and Stacks with Swift UI on Mojave](https://www.youtube.com/watch?v=wbxbe35Bbn4)**
+* **[SwiftUI NavigationView, List, Text, NavigationBarTitle Xcode 11](https://www.youtube.com/watch?v=rySUuXkN5wg)**
+* **[NavigationView and NavigationButton - Push View in SwiftUI](https://www.youtube.com/watch?v=8tZjVRXsuig)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
