@@ -128,7 +128,10 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI-Combine-todo-example](https://github.com/jamfly/SwiftUI-Combine-todo-example)**. A to-do list app using SwiftUI and combine with restful api.
 * **[Bindings.swift](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8)**. Re-implementation of @binding and @State (from SwiftUI) myself to better understand it.
 * **[Contacts.swift](https://gist.github.com/jackhl/632935a2e90e3796e38c2143d5dadc96)**
-* **[vinhnx/CombineUnsplash](https://github.com/vinhnx/CombineUnsplash)** Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explaination
+* **[CombineUnsplash](https://github.com/vinhnx/CombineUnsplash)**. Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explaination.
+* **[RemoteImage.swift](https://gist.github.com/alexito4/59436b9ab0489b00fb137a8382f38ea5)**. Rough sketch of SwiftUI RemoteImage using AlamofireImage.
+* **[CombineFeedback](https://github.com/sergdort/CombineFeedback)**. Unidirectional reactive architecture using new Apple Combine framework.
+* **[Harvest](https://github.com/inamiy/Harvest)**. 🌾 Harvest: Apple's Combine.framework + State Machine, inspired by Redux and Elm.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
