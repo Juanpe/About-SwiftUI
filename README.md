@@ -50,15 +50,14 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 #### 📹 WWDC videos
 
 * **[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)**
-* **[Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237)**
-* **[Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238)**
-* **[Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)**
-* **[Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231)**
-* **[Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)**
 * **[SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)**
+* **[Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)**
+* **[Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237)**
+* **[Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231)**
+* **[Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238)**
 * **[SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240)**
 * **[SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)**
-
+* **[Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)**
 
 #### 👩🏼‍🏫 Tutorials
 
