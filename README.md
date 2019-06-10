@@ -114,6 +114,8 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI: Getting Started](https://www.raywenderlich.com/3715234-swiftui-getting-started)** by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[SwiftUI meets Kotlin Multiplatform!](https://johnoreilly.dev/2019/06/08/swiftui-meetings-kotlin-multiplatform.html)** by [johnoreilly.dev](https://www.twitter.com/joreilly)
 * **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
+* **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
+* **🇨🇳[SwiftUI - First experience](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swiftui-程式開發初體驗-aea9122741b1)** by [彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
