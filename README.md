@@ -15,6 +15,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
   * [Tutorials](#-tutorials)
 * [By the community](#-by-the-community)
   * [Books](#-books)
+  * [Courses](#-courses)
   * [Articles](#-articles)
   * [Repositories](#-repositories)
   * [Videos](#-videos)
@@ -77,6 +78,9 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[Catalyst by Tutorials](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
 
+#### 🎓 Courses
+* **[Learn SwiftUI](https://learn.designcode.io/swiftui)**. by [Meng To](https://twitter.com/mengto)
+
 #### 📰 Articles
 
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
@@ -103,6 +107,13 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[RxSwift to Apple’s Combine “Cheat Sheet”](https://medium.com/gett-engineering/rxswift-to-apples-combine-cheat-sheet-e9ce32b14c5b)** by [Shai Mishali](https://twitter.com/freak4pc)
 * **[First impressions of SwiftUI](https://www.cocoawithlove.com/blog/swiftui.html)** by [Matt Gallagher](https://twitter.com/cocoawithlove)
 * **[Playing with SwiftUI Buttons](https://alejandromp.com/blog/2019/06/09/playing-with-swiftui-buttons/)** by [Alejandro Martinez](https://twitter.com/alexito4)
+* **[Jun 9 The Swift 5.1 features that power SwiftUI’s API](https://www.swiftbysundell.com/posts/the-swift-51-features-that-power-swiftuis-api)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
+* **[Everything you need to know about SwiftUI to get started](https://www.blckbirds.com/post/everything-you-need-to-know-about-swiftui)** by [BLCKBRIDS](https://www.blckbirds.com)
+* **[Intro to SwiftUI — Part 1](https://medium.com/@suyash.srijan/intro-to-swiftui-part-1-47361a3ffb2e)** by [Suyash Srijan](https://twitter.com/suyashsrijan)
+* **[How to build a Chat App or Messenger in SwiftUI for iOS Swift](https://medium.com/@halavins/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab)** by [Nick Halavins](https://twitter.com/AntiLand_com)
+* **[SwiftUI: Getting Started](https://www.raywenderlich.com/3715234-swiftui-getting-started)** by [Ray wenderlich](https://www.raywenderlich.com/)
+* **[SwiftUI meets Kotlin Multiplatform!](https://johnoreilly.dev/2019/06/08/swiftui-meetings-kotlin-multiplatform.html)** by [johnoreilly.dev](https://www.twitter.com/joreilly)
+* **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
@@ -155,6 +166,8 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI NavigationView, List, Text, NavigationBarTitle Xcode 11](https://www.youtube.com/watch?v=rySUuXkN5wg)**
 * **[NavigationView and NavigationButton - Push View in SwiftUI](https://www.youtube.com/watch?v=8tZjVRXsuig)**
 * **[What's behind SwiftUI DSL? - Swift Function Builders - Following Swift Evolution](https://youtu.be/YG5u0aFgGQI)**
+* **[Let's Code SwiftUI (WWDC 2019 Preview) | Lesson #00 | Über das Let's Code](https://www.youtube.com/watch?v=0oI29FIufQU&feature=youtu.be)**
+* **[SwiftUI - Understanding State](https://www.youtube.com/watch?v=KD4OAjQJYPc&feature=youtu.be)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
