@@ -168,6 +168,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[What's behind SwiftUI DSL? - Swift Function Builders - Following Swift Evolution](https://youtu.be/YG5u0aFgGQI)**
 * **[Let's Code SwiftUI (WWDC 2019 Preview) | Lesson #00 | Über das Let's Code](https://www.youtube.com/watch?v=0oI29FIufQU&feature=youtu.be)**
 * **[SwiftUI - Understanding State](https://www.youtube.com/watch?v=KD4OAjQJYPc&feature=youtu.be)**
+* **[SwiftUI - Lists | Create Something like UITableView](https://www.youtube.com/watch?v=vLa1z5wVkq0)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
