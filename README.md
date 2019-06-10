@@ -105,7 +105,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[Playing with SwiftUI Buttons](https://alejandromp.com/blog/2019/06/09/playing-with-swiftui-buttons/)** by [Alejandro Martinez](https://twitter.com/alexito4)
 
 #### 📦 Repositories
-* **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!
+* **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
 * **[KeyboardAvoiding](https://github.com/a2/KeyboardAvoiding)**. A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets.
 * **[DispatchStore](https://github.com/alexdrone/DispatchStore)**. Swift package that implements an operation based, multi-store à-la Flux for SwiftUI.
