@@ -102,6 +102,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **🇫🇷 [Qu’est-ce que SwiftUI?](https://medium.com/@bachur.nicolas/introduction-%C3%A0-swiftui-bf2423d8b3ed)** by [Nicolas Bachur](https://medium.com/@bachur.nicolas)
 * **[RxSwift to Apple’s Combine “Cheat Sheet”](https://medium.com/gett-engineering/rxswift-to-apples-combine-cheat-sheet-e9ce32b14c5b)** by [Shai Mishali](https://twitter.com/freak4pc)
 * **[First impressions of SwiftUI](https://www.cocoawithlove.com/blog/swiftui.html)** by [Matt Gallagher](https://twitter.com/cocoawithlove)
+* **[Playing with SwiftUI Buttons](https://alejandromp.com/blog/2019/06/09/playing-with-swiftui-buttons/)** by [Alejandro Martinez](https://twitter.com/alexito4)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework!
@@ -152,6 +153,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[How To Create Views, Text and Stacks with Swift UI on Mojave](https://www.youtube.com/watch?v=wbxbe35Bbn4)**
 * **[SwiftUI NavigationView, List, Text, NavigationBarTitle Xcode 11](https://www.youtube.com/watch?v=rySUuXkN5wg)**
 * **[NavigationView and NavigationButton - Push View in SwiftUI](https://www.youtube.com/watch?v=8tZjVRXsuig)**
+* **[What's behind SwiftUI DSL? - Swift Function Builders - Following Swift Evolution](https://youtu.be/YG5u0aFgGQI)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
