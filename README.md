@@ -115,6 +115,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
 * **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
 * **🇨🇳 [SwiftUI - First experience](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swiftui-程式開發初體驗-aea9122741b1)** by [彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan)
+* **[SwiftUI Will Change More Than How We Code](https://www.prolificinteractive.com/2019/06/07/swiftui-will-change-more-than-how-we-code/)** by [Harlan Kellaway](https://github.com/hkellaway) for [Prolific Interactive](https://twitter.com/weareprolific)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
