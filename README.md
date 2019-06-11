@@ -79,6 +79,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 #### 🎓 Courses
 * **[Learn SwiftUI](https://learn.designcode.io/swiftui)**. by [Meng To](https://twitter.com/mengto)
+* **[SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/?couponCode=JUANGITHUB)** . by [DevTechie Interactive](https://www.udemy.com/user/anoop-tomar/)
 
 #### 📰 Articles
 
@@ -116,6 +117,8 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
 * **🇨🇳 [SwiftUI - First experience](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swiftui-程式開發初體驗-aea9122741b1)** by [彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan)
 * **[SwiftUI Will Change More Than How We Code](https://www.prolificinteractive.com/2019/06/07/swiftui-will-change-more-than-how-we-code/)** by [Harlan Kellaway](https://github.com/hkellaway) for [Prolific Interactive](https://twitter.com/weareprolific)
+* **[What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4)** by [Mischa Hildebrand](https://twitter.com/DerHildebrand)
+* **[SwiftUI vs Interface Builder and storyboards](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-vs-interface-builder-and-storyboards)** by [Hacking with Swift](https://twitter.com/twostraws)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
@@ -149,6 +152,10 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[Harvest](https://github.com/inamiy/Harvest)**. 🌾 Harvest: Apple's Combine.framework + State Machine, inspired by Redux and Elm.
 * **[Redux HandlingUserInput](https://github.com/AlexeyDemedetskiy/HandlingUserInput)**. HandlingUserInput tutorial showcasing redux style of state and change management.
 * **[SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)**. SwiftUI Cheat Sheet.
+* **[swiftui_shadow_and_border.swift](https://gist.github.com/fitomad/b093e008f98c03e87b9c4ba7627798ff)**. Testing SwiftUI. Adding shadow and corner radius to a View. Strange behavior depending on View background color.
+* **[SwiftUI-MVVM](https://github.com/kitasuke/SwiftUI-MVVM)**. Sample iOS project built by SwiftUI + MVVM and Combine framework using GitHub API.
+* **[SwiftUI-Circular.swift](https://gist.github.com/Thomvis/8a78d49a662f708311e0440f1f43a204)**. Rough attempt at creating a container view that lays out its children in a circle.
+* **[NotesApp.swift](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451)**. A notes app written in >100 lines of swift using SwiftUI.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
@@ -174,6 +181,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI - Lists - Create Something like UITableView](https://www.youtube.com/watch?v=vLa1z5wVkq0)**
 * **🇪🇸 [SwiftUI: Primeros Pasos en Xcode 11 e iOS 13](https://youtu.be/VdOzrsJJIbc)**
 * **[SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)**
+* **[SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
