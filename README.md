@@ -114,7 +114,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI meets Kotlin Multiplatform!](https://johnoreilly.dev/2019/06/08/swiftui-meetings-kotlin-multiplatform.html)** by [johnoreilly.dev](https://www.twitter.com/joreilly)
 * **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
 * **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
-* **🇨🇳[SwiftUI - First experience](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swiftui-程式開發初體驗-aea9122741b1)** by [彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan)
+* **🇨🇳 [SwiftUI - First experience](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swiftui-程式開發初體驗-aea9122741b1)** by [彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan)
 
 #### 📦 Repositories
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
@@ -171,6 +171,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[Let's Code SwiftUI (WWDC 2019 Preview) | Lesson #00 | Über das Let's Code](https://www.youtube.com/watch?v=0oI29FIufQU&feature=youtu.be)**
 * **[SwiftUI - Understanding State](https://www.youtube.com/watch?v=KD4OAjQJYPc&feature=youtu.be)**
 * **[SwiftUI - Lists | Create Something like UITableView](https://www.youtube.com/watch?v=vLa1z5wVkq0)**
+* **🇪🇸 [SwiftUI: Primeros Pasos en Xcode 11 e iOS 13](https://youtu.be/VdOzrsJJIbc)**
 * **[SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)**
 
 #### ❤️ Contributing
