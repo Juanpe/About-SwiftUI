@@ -159,7 +159,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI Presenting Data In A Scroll View & List](https://www.youtube.com/watch?v=wjqDQ3X5Vos)**
 * **[Intro To SwiftUI: Simple State Management](https://www.youtube.com/watch?v=AWPiup9fE2c)**
 * **[Before You Learn SwiftUI, You Need To Hear This...](https://www.youtube.com/watch?v=H9XyZ_F1tPI)**
-* **[SwiftUI = Mind-blow | WWDC iOS developer reaction](https://www.youtube.com/watch?v=fbuOxKqC5wQ)**
+* **[SwiftUI = Mind-blow - WWDC iOS developer reaction](https://www.youtube.com/watch?v=fbuOxKqC5wQ)**
 * **[SwiftUI - DON'T LEARN IT (JUST YET)](https://www.youtube.com/watch?v=AKHsFNtANes)**
 * **[SwiftUI Beginner Tutorial On iOS 13 by Devslopes](https://www.youtube.com/watch?v=wwDAvq9MZlQ)**
 * **[Simple SwiftUI App by Brian Advent](https://www.youtube.com/watch?v=Pfw7zWxchQc)**
