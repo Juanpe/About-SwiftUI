@@ -182,6 +182,7 @@ _🌟 most interesting_
 * **[SwiftUI - Understanding State](https://www.youtube.com/watch?v=KD4OAjQJYPc&feature=youtu.be)**
 * **[SwiftUI - Lists - Create Something like UITableView](https://www.youtube.com/watch?v=vLa1z5wVkq0)**
 * **🇪🇸 [SwiftUI: Primeros Pasos en Xcode 11 e iOS 13](https://youtu.be/VdOzrsJJIbc)**
+* **🇪🇸 [SwiftUI + Xcode 11: Descubre Swift Package Manager y SF Symbols](https://youtu.be/93YBmQNp_sQ)**
 * **[SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)**
 * **[SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)**
 
