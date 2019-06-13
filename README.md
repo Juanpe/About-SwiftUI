@@ -164,6 +164,8 @@ _🌟 most interesting_
 
 * **[UnsplashSwiftUI](https://github.com/kaunamohammed/UnsplashSwiftUI)**. `UnsplashSwiftUI` A simple app powered by SwiftUI and Unsplash 🚀
 
+* **[Fluxus](https://github.com/johnsusek/fluxus)**. True one-way data flow for SwiftUI, inspired by Vuex.
+
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
 * **[How to Run SwiftUI on Mojave with Playgrounds and Sample Code](https://www.youtube.com/watch?v=VSvz62fGyYM)**
