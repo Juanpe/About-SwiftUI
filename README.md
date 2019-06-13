@@ -125,8 +125,9 @@ _🌟 most interesting_
 
 
 #### 📦 Repositories
+
+* **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. 🔥🔥🔥 `SwiftUI` Framework  Learning and Usage Guide. 🚀
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
-* **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
 * **[KeyboardAvoiding](https://github.com/a2/KeyboardAvoiding)**. A SwiftUI view that manages a UIViewController that responds to keyboard events with modified additionalSafeAreaInsets.
 * **[DispatchStore](https://github.com/alexdrone/DispatchStore)**. Swift package that implements an operation based, multi-store à-la Flux for SwiftUI.
