@@ -122,6 +122,7 @@ _🌟 most interesting_
 * **[What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4)** by [Mischa Hildebrand](https://twitter.com/DerHildebrand)
 * **[SwiftUI vs Interface Builder and storyboards](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-vs-interface-builder-and-storyboards)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[SwiftUI Basics: List Fetching](https://medium.com/@matschmidy/swiftui-basics-list-fetching-9b03fb145d85?postPublishedType=initial)** by [Mat Schmid](https://twitter.com/devschmidy)
+* **[SwiftUI, personal thoughts and Model-View-Presenter](https://www.dcordero.me/posts/swiftui_personal_thoughts_and_mvp.html)** by [David Cordero](https://www.dcordero.me)
 
 
 #### 📦 Repositories
