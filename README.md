@@ -161,8 +161,8 @@ _🌟 most interesting_
 * **[SwiftUI-MVVM](https://github.com/kitasuke/SwiftUI-MVVM)**. Sample iOS project built by SwiftUI + MVVM and Combine framework using GitHub API.
 * **[SwiftUI-Circular.swift](https://gist.github.com/Thomvis/8a78d49a662f708311e0440f1f43a204)**. Rough attempt at creating a container view that lays out its children in a circle.
 * **[NotesApp.swift](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451)**. A notes app written in >100 lines of swift using SwiftUI.
-
 * **[UnsplashSwiftUI](https://github.com/kaunamohammed/UnsplashSwiftUI)**. `UnsplashSwiftUI` A simple app powered by SwiftUI and Unsplash 🚀
+* **[AniTime](https://github.com/PangMo5/AniTime)**. Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
