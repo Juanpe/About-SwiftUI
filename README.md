@@ -166,7 +166,7 @@ _🌟 most interesting_
 * **[AniTime](https://github.com/PangMo5/AniTime)**. Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture
 * **[Fluxus](https://github.com/johnsusek/fluxus)**. True one-way data flow for SwiftUI, inspired by Vuex.
 * **[ChartView in SwiftUI](https://github.com/AppPear/ChartView)**. Easy to use animated Chartview supporting `Bar and Piecharts`
-* **[ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator). SwiftUI view that download and display image from URL and displaying Activity Indicator while loading. [Demo](https://github.com/AliAdam/ImageWithActivityIndicatorDemo) 
+* **[ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator)**. SwiftUI view that download and display image from URL and displaying Activity Indicator while loading. [Demo](https://github.com/AliAdam/ImageWithActivityIndicatorDemo) 
 
 
 
