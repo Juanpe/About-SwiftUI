@@ -123,6 +123,7 @@ _🌟 most interesting_
 * **[SwiftUI vs Interface Builder and storyboards](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-vs-interface-builder-and-storyboards)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[SwiftUI Basics: List Fetching](https://medium.com/@matschmidy/swiftui-basics-list-fetching-9b03fb145d85?postPublishedType=initial)** by [Mat Schmid](https://twitter.com/devschmidy)
 * **[SwiftUI, personal thoughts and Model-View-Presenter](https://www.dcordero.me/posts/swiftui_personal_thoughts_and_mvp.html)** by [David Cordero](https://www.dcordero.me)
+* **[Cloning Tinder using SwiftUI](https://medium.com/@davidgrdoll/cloning-tinder-swiftui-29faed752be6)** by [David Doll](https://twitter.com/davidgdoll)
 
 
 #### 📦 Repositories
