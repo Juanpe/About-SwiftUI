@@ -128,6 +128,7 @@ _🌟 most interesting_
 
 
 #### 📦 Repositories
+* **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
