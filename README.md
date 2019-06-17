@@ -164,7 +164,7 @@ _🌟 most interesting_
 * **[NotesApp.swift](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451)**. A notes app written in >100 lines of swift using SwiftUI.
 * **[UnsplashSwiftUI](https://github.com/kaunamohammed/UnsplashSwiftUI)**. `UnsplashSwiftUI` A simple app powered by SwiftUI and Unsplash 🚀
 * **[AniTime](https://github.com/PangMo5/AniTime)**. Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture
-* **[Fluxus](https://github.com/johnsusek/fluxus)**. True one-way data flow for SwiftUI, inspired by Vuex.
+* **[Fluxus](https://github.com/johnsusek/fluxus)**. Flux for SwiftUI, inspired by Vuex.
 * **[ChartView in SwiftUI](https://github.com/AppPear/ChartView)**. Easy to use animated Chartview supporting `Bar and Piecharts`
 
 #### 🖥 Videos
