@@ -125,6 +125,7 @@ _🌟 most interesting_
 * **[SwiftUI Basics: List Fetching](https://medium.com/@matschmidy/swiftui-basics-list-fetching-9b03fb145d85?postPublishedType=initial)** by [Mat Schmid](https://twitter.com/devschmidy)
 * **[SwiftUI, personal thoughts and Model-View-Presenter](https://www.dcordero.me/posts/swiftui_personal_thoughts_and_mvp.html)** by [David Cordero](https://www.dcordero.me)
 * **[Cloning Tinder using SwiftUI](https://medium.com/@davidgrdoll/cloning-tinder-swiftui-29faed752be6)** by [David Doll](https://twitter.com/davidgdoll)
+* **[SwiftUI: Project migration from UIKit](https://nikrodionov.com/project-migration-to-swiftui/)** by [Nik Rodionov](https://twitter.com/n_rodionov)
 
 
 #### 📦 Repositories
@@ -138,6 +139,7 @@ _🌟 most interesting_
 * **[WWDCPlayer](https://github.com/YOONMS/WWDCPlayer)**. 🤖 WWDC19 player using SwiftUI.
 * **[MyDogs](https://github.com/valvoline/MyDogs)**. A simple SwiftUI example for testing Lists, BindableObject, State management and Network.
 * **[MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)**. SwiftUI & Combine app using MovieDB API.
+* **[CryptoTickerSwiftUI](https://github.com/Dimillian/CryptoTickerSwiftUI)**. Example project using a websocket API and SwiftUI to displays latest BTC-USD trade. (Latest Bitcoin price)
 * **[SwiftUI-Combine](https://github.com/ra1028/SwiftUI-Combine)**. This is an example project of SwiftUI and Combine using GitHub API.
 * **[SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel)**. An experimental time traveling state store for SwiftUI.
 * **[SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike)**. SwiftUI imitation app interface (Build Jike App with SwiftUI).
@@ -166,8 +168,13 @@ _🌟 most interesting_
 * **[NotesApp.swift](https://gist.github.com/jnewc/35692b2a5985c3c99e847ec56098a451)**. A notes app written in >100 lines of swift using SwiftUI.
 * **[UnsplashSwiftUI](https://github.com/kaunamohammed/UnsplashSwiftUI)**. `UnsplashSwiftUI` A simple app powered by SwiftUI and Unsplash 🚀
 * **[AniTime](https://github.com/PangMo5/AniTime)**. Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture
-* **[Fluxus](https://github.com/johnsusek/fluxus)**. True one-way data flow for SwiftUI, inspired by Vuex.
+* **[Fluxus](https://github.com/johnsusek/fluxus)**. Flux for SwiftUI, inspired by Vuex.
 * **[ChartView in SwiftUI](https://github.com/AppPear/ChartView)**. Easy to use animated Chartview supporting `Bar and Piecharts`
+* **[Weather](https://github.com/niazoff/Weather)**. A simple SwiftUI weather app using MVVM.
+* **[FutureScheduler for Combine](https://gist.github.com/jrsonline/ccd2338f6e39a2f0c7e7640063a0182c)**. Example (and useful!) Scheduler, like Apple's provided ImmediateScheduler but allowing for future events.
+* **[toBlockingArray for Combine](https://gist.github.com/jrsonline/dd9799929e1aceb5d99e83fc6ac2b43b)**. Acts like RxBlocking, for writing tests using the Combine framework.
+* **[ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator)**. SwiftUI view that download and display image from URL and displaying Activity Indicator while loading. [Demo](https://github.com/AliAdam/ImageWithActivityIndicatorDemo) 
+* **[🌯🌯 Burritos](https://github.com/guillermomuntaner/Burritos)**. A collection of Swift Property Wrappers (formerly "Property Delegates").
 * **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 
 #### 🖥 Videos
