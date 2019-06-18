@@ -128,7 +128,6 @@ _🌟 most interesting_
 
 
 #### 📦 Repositories
-* **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
@@ -169,6 +168,7 @@ _🌟 most interesting_
 * **[AniTime](https://github.com/PangMo5/AniTime)**. Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture
 * **[Fluxus](https://github.com/johnsusek/fluxus)**. True one-way data flow for SwiftUI, inspired by Vuex.
 * **[ChartView in SwiftUI](https://github.com/AppPear/ChartView)**. Easy to use animated Chartview supporting `Bar and Piecharts`
+* **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
