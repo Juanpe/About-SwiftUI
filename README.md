@@ -171,7 +171,6 @@ _🌟 most interesting_
 * **[Fluxus](https://github.com/johnsusek/fluxus)**. Flux for SwiftUI, inspired by Vuex.
 * **[ChartView in SwiftUI](https://github.com/AppPear/ChartView)**. Easy to use animated Chartview supporting `Bar and Piecharts`
 * **[Weather](https://github.com/niazoff/Weather)**. A simple SwiftUI weather app using MVVM.
-* **[FutureScheduler for Combine](https://gist.github.com/jrsonline/ccd2338f6e39a2f0c7e7640063a0182c)**. Example (and useful!) Scheduler, like Apple's provided ImmediateScheduler but allowing for future events.
 * **[toBlockingArray for Combine](https://gist.github.com/jrsonline/dd9799929e1aceb5d99e83fc6ac2b43b)**. Acts like RxBlocking, for writing tests using the Combine framework.
 * **[ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator)**. SwiftUI view that download and display image from URL and displaying Activity Indicator while loading. [Demo](https://github.com/AliAdam/ImageWithActivityIndicatorDemo) 
 * **[🌯🌯 Burritos](https://github.com/guillermomuntaner/Burritos)**. A collection of Swift Property Wrappers (formerly "Property Delegates").
