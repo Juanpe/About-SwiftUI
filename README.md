@@ -85,7 +85,6 @@ _🌟 most interesting_
 
 #### 📰 Articles
 
-* **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/swiftui-mastering-table-views-lists-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[SwiftUI’s relationship to UIKit and AppKit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
@@ -124,7 +123,7 @@ _🌟 most interesting_
 * **[SwiftUI vs Interface Builder and storyboards](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-vs-interface-builder-and-storyboards)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[SwiftUI Basics: List Fetching](https://medium.com/@matschmidy/swiftui-basics-list-fetching-9b03fb145d85?postPublishedType=initial)** by [Mat Schmid](https://twitter.com/devschmidy)
 * **[SwiftUI, personal thoughts and Model-View-Presenter](https://www.dcordero.me/posts/swiftui_personal_thoughts_and_mvp.html)** by [David Cordero](https://www.dcordero.me)
-
+* **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/swiftui-mastering-table-views-lists-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
 
 #### 📦 Repositories
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
