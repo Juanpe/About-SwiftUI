@@ -202,6 +202,7 @@ _🌟 most interesting_
 * **🇪🇸 [SwiftUI + Xcode 11: Descubre Swift Package Manager y SF Symbols](https://youtu.be/93YBmQNp_sQ)**
 * **[SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)**
 * **[SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)**
+* **[Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)**
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
