@@ -79,6 +79,7 @@ _🌟 most interesting_
 * **[Swift UI by Tutorials](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[Catalyst by Tutorials](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
+* **[SwiftUI by Example - Book](https://gumroad.com/l/swiftui)** _(Available NOW!)_ by [Hacking with Swift](https://twitter.com/twostraws)
 
 #### 🎓 Courses
 * **[Learn SwiftUI](https://learn.designcode.io/swiftui)**. by [Meng To](https://twitter.com/mengto)
