@@ -209,6 +209,8 @@ _🌟 most interesting_
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
+* **[Fucking SwiftUI - SwiftUI Cheat Sheet](https://fuckingswiftui.com)**
+* **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
