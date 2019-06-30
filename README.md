@@ -179,6 +179,7 @@ _🌟 most interesting_
 * **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 * **[SwiftUI-Redux-Todo Example](https://github.com/moflo/SwiftUI-Todo-Redux)** An opinionated React/Redux inspired Todo example.
 * **[FlowStack](https://github.com/johnsusek/FlowStack)**. A grid layout component.
+* **[Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)**. A Currency converter app.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
