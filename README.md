@@ -82,7 +82,7 @@ _🌟 most interesting_
 * **[SwiftUI by Example - Book](https://gumroad.com/l/swiftui)** _(Available NOW!)_ by [Hacking with Swift](https://twitter.com/twostraws)
 
 #### 🎓 Courses
-* **[Learn SwiftUI](https://learn.designcode.io/swiftui)**. by [Meng To](https://twitter.com/mengto)
+* **[Learn SwiftUI](https://designcode.io/swiftui-course)**. by [Meng To](https://twitter.com/mengto)
 * **[SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/?couponCode=JUANGITHUB)** . by [DevTechie Interactive](https://www.udemy.com/user/anoop-tomar/)
 
 #### 📰 Articles
