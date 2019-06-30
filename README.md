@@ -89,6 +89,7 @@ _🌟 most interesting_
 
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
+* **[Higher-Order-Components in SwiftUI](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36?postPublishedType=initial)** by [Andrei Villasana](https://www.linkedin.com/in/andrei-villasana-5a06a2119/)
 * **[SwiftUI’s relationship to UIKit and AppKit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
 * **[Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
 * **[A first look at SwiftUI: Apple’s declarative new UI framework](https://wwdcbysundell.com/2019/swiftui-first-look/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
