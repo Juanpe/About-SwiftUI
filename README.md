@@ -129,6 +129,8 @@ _🌟 most interesting_
 * **[Cloning Tinder using SwiftUI](https://medium.com/@davidgrdoll/cloning-tinder-swiftui-29faed752be6)** by [David Doll](https://twitter.com/davidgdoll)
 * **[SwiftUI: Project migration from UIKit](https://nikrodionov.com/project-migration-to-swiftui/)** by [Nik Rodionov](https://twitter.com/n_rodionov)
 * **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/swiftui-mastering-table-views-lists-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
+* **[MessageUI, SwiftUI and UIKit integration](https://link.medium.com/posgdRBMWX)
+
 
 #### 📦 Repositories
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
