@@ -183,6 +183,10 @@ _🌟 most interesting_
 * **[SwiftUI-Redux-Todo Example](https://github.com/moflo/SwiftUI-Todo-Redux)** An opinionated React/Redux inspired Todo example.
 * **[FlowStack](https://github.com/johnsusek/FlowStack)**. A grid layout component.
 * **[Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)**. A Currency converter app.
+* **[Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)**. A Currency converter app.
+* **[bottombar-swiftui](https://github.com/smartvipere75/bottombar-swiftui)**. BottomBar component for SwiftUI
+* **[DealStack](https://github.com/insidegui/DealStack)**. Simple card stack implemented with SwiftUI
+* **[SwiftUI-PathAnimations](https://github.com/adellibovi/SwiftUI-PathAnimations)**. Tools for SwiftUI that helps perform Path and Shape animations
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
