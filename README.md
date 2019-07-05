@@ -218,8 +218,5 @@ _🌟 most interesting_
 * **[Fucking SwiftUI - SwiftUI Cheat Sheet](https://fuckingswiftui.com)**
 * **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
 
-#### 🔌 UIKit
-* **[SwiftUI in UIKit? Yes! Meet DuckUI - Full Course](https://www.youtube.com/watch?v=DjITHGUbRSw&list=PL_csAAO9PQ8bOMSn6HnU31hwq__Yq4e2h)**
-
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
