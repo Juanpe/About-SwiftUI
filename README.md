@@ -130,6 +130,7 @@ _🌟 most interesting_
 * **[SwiftUI: Project migration from UIKit](https://nikrodionov.com/project-migration-to-swiftui/)** by [Nik Rodionov](https://twitter.com/n_rodionov)
 * **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/swiftui-mastering-table-views-lists-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
 * **[MessageUI, SwiftUI and UIKit integration](https://link.medium.com/posgdRBMWX)
+* **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/login-page-in-swiftui-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
 
 
 #### 📦 Repositories
