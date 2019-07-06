@@ -130,6 +130,7 @@ _🌟 most interesting_
 * **[SwiftUI: Project migration from UIKit](https://nikrodionov.com/project-migration-to-swiftui/)** by [Nik Rodionov](https://twitter.com/n_rodionov)
 * **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/swiftui-mastering-table-views-lists-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
 * **[MessageUI, SwiftUI and UIKit integration](https://link.medium.com/posgdRBMWX)
+* **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/login-page-in-swiftui-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
 
 
 #### 📦 Repositories
@@ -184,6 +185,7 @@ _🌟 most interesting_
 * **[FlowStack](https://github.com/johnsusek/FlowStack)**. A grid layout component.
 * **[Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)**. A Currency converter app.
 * **[CombineBookSearch](https://github.com/PPacie/CombineBookSearch)**. SwiftUI + Combine + MVVM architecture.
+* **[YanxuanHD](https://github.com/hite/YanxuanHD/blob/master/README.md)**, The iPad version of '网易严选' iOS app
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
@@ -212,6 +214,7 @@ _🌟 most interesting_
 * **[SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)**
 * **[SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)**
 * **[Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)**
+* **[SwiftUI in UIKit? Yes! Meet DuckUI - Full Course](https://www.youtube.com/watch?v=DjITHGUbRSw&list=PL_csAAO9PQ8bOMSn6HnU31hwq__Yq4e2h)**
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
