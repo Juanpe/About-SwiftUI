@@ -184,6 +184,7 @@ _🌟 most interesting_
 * **[SwiftUI-Redux-Todo Example](https://github.com/moflo/SwiftUI-Todo-Redux)** An opinionated React/Redux inspired Todo example.
 * **[FlowStack](https://github.com/johnsusek/FlowStack)**. A grid layout component.
 * **[Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)**. A Currency converter app.
+* **[YanxuanHD](https://github.com/hite/YanxuanHD/blob/master/README.md)**, The iPad version of '网易严选' iOS app
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
