@@ -182,6 +182,7 @@ _🌟 most interesting_
 * **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 * **[SwiftUI-Redux-Todo Example](https://github.com/moflo/SwiftUI-Todo-Redux)** An opinionated React/Redux inspired Todo example.
 * **[FlowStack](https://github.com/johnsusek/FlowStack)**. A grid layout component.
+* **[📱GridStack](https://github.com/pietropizzi/GridStack)**. A flexible grid layout view for SwiftUI.
 * **[Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)**. A Currency converter app.
 * **[bottombar-swiftui](https://github.com/smartvipere75/bottombar-swiftui)**. BottomBar component for SwiftUI
 * **[DealStack](https://github.com/insidegui/DealStack)**. Simple card stack implemented with SwiftUI
