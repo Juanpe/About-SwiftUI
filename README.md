@@ -182,13 +182,13 @@ _🌟 most interesting_
 * **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 * **[SwiftUI-Redux-Todo Example](https://github.com/moflo/SwiftUI-Todo-Redux)** An opinionated React/Redux inspired Todo example.
 * **[FlowStack](https://github.com/johnsusek/FlowStack)**. A grid layout component.
-* **[📱GridStack](https://github.com/pietropizzi/GridStack)**. A flexible grid layout view for SwiftUI.
 * **[Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)**. A Currency converter app.
 * **[bottombar-swiftui](https://github.com/smartvipere75/bottombar-swiftui)**. BottomBar component for SwiftUI
 * **[DealStack](https://github.com/insidegui/DealStack)**. Simple card stack implemented with SwiftUI
 * **[SwiftUI-PathAnimations](https://github.com/adellibovi/SwiftUI-PathAnimations)**. Tools for SwiftUI that helps perform Path and Shape animations
 * **[CombineBookSearch](https://github.com/PPacie/CombineBookSearch)**. SwiftUI + Combine + MVVM architecture.
 * **[YanxuanHD](https://github.com/hite/YanxuanHD/blob/master/README.md)**, The iPad version of '网易严选' iOS app
+* **[📱GridStack](https://github.com/pietropizzi/GridStack)**. A flexible grid layout view for SwiftUI.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
