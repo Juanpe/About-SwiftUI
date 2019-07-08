@@ -133,7 +133,6 @@ _🌟 most interesting_
 
 
 #### 📦 Repositories
-* **[Babylon demo](https://github.com/czajnikowski/Babylon)** MVVM with a project-level separation of layers and a leaf `View` framework.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
@@ -190,6 +189,7 @@ _🌟 most interesting_
 * **[CombineBookSearch](https://github.com/PPacie/CombineBookSearch)**. SwiftUI + Combine + MVVM architecture.
 * **[YanxuanHD](https://github.com/hite/YanxuanHD/blob/master/README.md)**, The iPad version of '网易严选' iOS app
 * **[📱GridStack](https://github.com/pietropizzi/GridStack)**. A flexible grid layout view for SwiftUI.
+* **[Babylon demo](https://github.com/czajnikowski/Babylon)** MVVM with a project-level separation of layers and a leaf `View` framework.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
