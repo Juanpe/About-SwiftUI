@@ -220,6 +220,7 @@ _🌟 most interesting_
 * **[SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)**
 * **[Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)**
 * **[SwiftUI in UIKit? Yes! Meet DuckUI - Full Course](https://www.youtube.com/watch?v=DjITHGUbRSw&list=PL_csAAO9PQ8bOMSn6HnU31hwq__Yq4e2h)**
+* **[SwiftUI and State Management: Part 1](https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-1)**
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
