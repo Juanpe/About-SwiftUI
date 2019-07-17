@@ -86,7 +86,6 @@ _🌟 most interesting_
 * **[SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/?couponCode=JUANGITHUB)** . by [DevTechie Interactive](https://www.udemy.com/user/anoop-tomar/)
 
 #### 📰 Articles
-
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[Higher-Order-Components in SwiftUI](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36?postPublishedType=initial)** by [Andrei Villasana](https://www.linkedin.com/in/andrei-villasana-5a06a2119/)
@@ -118,7 +117,6 @@ _🌟 most interesting_
 * **[How to build a Chat App or Messenger in SwiftUI for iOS Swift](https://medium.com/@halavins/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab)** by [Nick Halavins](https://twitter.com/AntiLand_com)
 * **[SwiftUI: Getting Started](https://www.raywenderlich.com/3715234-swiftui-getting-started)** by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[SwiftUI meets Kotlin Multiplatform!](https://johnoreilly.dev/2019/06/08/swiftui-meetings-kotlin-multiplatform.html)** by [johnoreilly.dev](https://www.twitter.com/joreilly)
-* **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
 * **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
 * **🇨🇳 [SwiftUI - First experience](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swiftui-程式開發初體驗-aea9122741b1)** by [彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan)
 * **[SwiftUI Will Change More Than How We Code](https://www.prolificinteractive.com/2019/06/07/swiftui-will-change-more-than-how-we-code/)** by [Harlan Kellaway](https://github.com/hkellaway) for [Prolific Interactive](https://twitter.com/weareprolific)
