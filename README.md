@@ -190,6 +190,7 @@ _🌟 most interesting_
 * **[📱GridStack](https://github.com/pietropizzi/GridStack)**. A flexible grid layout view for SwiftUI.
 * **[Babylon demo](https://github.com/czajnikowski/Babylon)** MVVM with a project-level separation of layers and a leaf `View` framework.
 * **[RKCalendar](https://github.com/RaffiKian/RKCalendar)** Simple SwiftUI Calendar / Date Picker.
+* **[Morphi](https://github.com/phimage/morphi)** Additional `Shape` for SwiftUI.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
