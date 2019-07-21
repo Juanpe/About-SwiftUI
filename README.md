@@ -8,19 +8,19 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 ### Table of contents
 
-* [ by Apple](#-by-apple)
-  * [Beta Software](#-beta-software)
-  * [Documentation](#-documentation)
-  * [WWDC Videos](#-wwdc-videos)
-  * [Tutorials](#-tutorials)
-* [By the community](#-by-the-community)
-  * [Books](#-books)
-  * [Courses](#-courses)
-  * [Articles](#-articles)
-  * [Repositories](#-repositories)
-  * [Videos](#-videos)
-  * [Websites](#-websites)
-* [Contributing](#-contributing)
+- [ by Apple](#%EF%A3%BF-by-apple)
+    - [🚧 Beta Software](#%F0%9F%9A%A7-beta-software)
+    - [📚 Documentation](#%F0%9F%93%9A-documentation)
+    - [📹 WWDC videos](#%F0%9F%93%B9-wwdc-videos)
+    - [👩🏼‍🏫 Tutorials](#%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8F%AB-tutorials)
+- [🌎 by the community](#%F0%9F%8C%8E-by-the-community)
+    - [📗 Books](#%F0%9F%93%97-books)
+    - [🎓 Courses](#%F0%9F%8E%93-courses)
+    - [📰 Articles](#%F0%9F%93%B0-articles)
+    - [📦 Repositories](#%F0%9F%93%A6-repositories)
+    - [🖥 Videos](#%F0%9F%96%A5-videos)
+    - [🔗 Websites](#%F0%9F%94%97-websites)
+    - [❤️ Contributing](#%E2%9D%A4%EF%B8%8F-contributing)
 
 ##  by Apple
 
@@ -222,6 +222,7 @@ _🌟 most interesting_
 * **[Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)**
 * **[SwiftUI in UIKit? Yes! Meet DuckUI - Full Course](https://www.youtube.com/watch?v=DjITHGUbRSw&list=PL_csAAO9PQ8bOMSn6HnU31hwq__Yq4e2h)**
 * **[SwiftUI and State Management: Part 1](https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-1)**
+* **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
