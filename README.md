@@ -222,6 +222,8 @@ _🌟 most interesting_
 * **[Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)**
 * **[SwiftUI in UIKit? Yes! Meet DuckUI - Full Course](https://www.youtube.com/watch?v=DjITHGUbRSw&list=PL_csAAO9PQ8bOMSn6HnU31hwq__Yq4e2h)**
 * **[SwiftUI and State Management: Part 1](https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-1)**
+* **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
+
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
