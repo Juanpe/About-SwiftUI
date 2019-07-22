@@ -130,6 +130,7 @@ _🌟 most interesting_
 * **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/login-page-in-swiftui-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
 * **[Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056)** by [Thomas Ricouard](https://twitter.com/dimillian)
 * **[SwiftUI vs Compose](https://quickbirdstudios.com/blog/swiftui-vs-android-jetpack-compose/)** by [QuickBird Studios](https://quickbirdstudios.com/)
+* **[Advanced Lists in SwiftUI](https://medium.com/better-programming/meet-greet-advanced-lists-in-swiftui-80ab6f08ca03)**
 
 
 #### 📦 Repositories
