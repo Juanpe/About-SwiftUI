@@ -130,6 +130,7 @@ _🌟 most interesting_
 * **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/login-page-in-swiftui-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
 * **[Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056)** by [Thomas Ricouard](https://twitter.com/dimillian)
 * **[SwiftUI vs Compose](https://quickbirdstudios.com/blog/swiftui-vs-android-jetpack-compose/)** by [QuickBird Studios](https://quickbirdstudios.com/)
+* **[Advanced Lists in SwiftUI](https://medium.com/better-programming/meet-greet-advanced-lists-in-swiftui-80ab6f08ca03)**
 
 
 #### 📦 Repositories
@@ -223,6 +224,7 @@ _🌟 most interesting_
 * **[Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)**
 * **[SwiftUI in UIKit? Yes! Meet DuckUI - Full Course](https://www.youtube.com/watch?v=DjITHGUbRSw&list=PL_csAAO9PQ8bOMSn6HnU31hwq__Yq4e2h)**
 * **[SwiftUI and State Management: Part 1](https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-1)**
+* **[SwiftUI and State Management: Part 2](https://www.pointfree.co/episodes/ep66-swiftui-and-state-management-part-2)**
 * **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
 
 
