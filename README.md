@@ -158,6 +158,7 @@ _🌟 most interesting_
 * **[SwiftUITheme](https://github.com/bellots/SwiftUITheme)**. A first idea to style SwiftUI Views.
 * **[Lists_-_Navigation_SwiftUI](https://github.com/swifterH/Lists_-_Navigation_SwiftUI)**. Exploration of Apple Developer's SwiftUI tutorial, detailing how to build lists and enable navigation between views with #SwiftUI.
 * **[injectable](https://github.com/vincent-pradeilles/injectable)**. A micro framework that leverages Swift Property Wrapper to implement the Service Locator pattern.
+* **[SwiftWebImage](https://github.com/geekaurora/SwiftWebImage)**. 🚀SwiftUI image downloader for BindingObject with performant LRU mem/disk cache.
 * **[NetworkImage.swift](https://gist.github.com/ivanbruel/b2838f62cb281bd974ec9c9c121c6cbe)**. Basic NetworkImage support for SwiftUI via Kingfisher
 * **[SwiftUI-Combine-todo-example](https://github.com/jamfly/SwiftUI-Combine-todo-example)**. A to-do list app using SwiftUI and combine with restful api.
 * **[Bindings.swift](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8)**. Re-implementation of @binding and @State (from SwiftUI) myself to better understand it.
