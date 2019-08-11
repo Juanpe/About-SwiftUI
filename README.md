@@ -227,7 +227,7 @@ _🌟 most interesting_
 * **[SwiftUI and State Management: Part 1](https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-1)**
 * **[SwiftUI and State Management: Part 2](https://www.pointfree.co/episodes/ep66-swiftui-and-state-management-part-2)**
 * **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
-
+* **[SwiftUI-CSS, The missing CSS-like module for SwiftUI](https://github.com/hite/SwiftUI-CSS)
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
