@@ -135,6 +135,7 @@ _🌟 most interesting_
 
 
 #### 📦 Repositories
+* **[SwiftUI-Router](https://github.com/frzi/SwiftUIRouter)**. A routing system proof-of-concept based on React Router.
 * **[SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) An extension to the standard SwiftUI library.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
