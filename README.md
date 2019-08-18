@@ -133,9 +133,7 @@ _🌟 most interesting_
 * **[SwiftUI vs Compose](https://quickbirdstudios.com/blog/swiftui-vs-android-jetpack-compose/)** by [QuickBird Studios](https://quickbirdstudios.com/)
 * **[Advanced Lists in SwiftUI](https://medium.com/better-programming/meet-greet-advanced-lists-in-swiftui-80ab6f08ca03)**
 
-
 #### 📦 Repositories
-* **[SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)** An extension to the standard SwiftUI library.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
@@ -198,6 +196,8 @@ _🌟 most interesting_
 * **[Morphi](https://github.com/phimage/morphi)** Additional `Shape` for SwiftUI.
 * **🎛 [QGrid](https://github.com/Q-Mobile/QGrid)** The missing SwiftUI collection view.
 * **⏯ [VideoPlayer](https://github.com/wxxsw/VideoPlayer)**, A video player for SwiftUI.
+* **[DrawerView-SwiftUI](https://github.com/totoroyyb/DrawerView-SwiftUI)** A drawer view with certain customizability implemented by SwiftUI.
+* **[SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)** An extension to the standard SwiftUI library.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
