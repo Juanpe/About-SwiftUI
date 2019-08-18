@@ -197,6 +197,7 @@ _🌟 most interesting_
 * **[RKCalendar](https://github.com/RaffiKian/RKCalendar)** Simple SwiftUI Calendar / Date Picker.
 * **[Morphi](https://github.com/phimage/morphi)** Additional `Shape` for SwiftUI.
 * **🎛 [QGrid](https://github.com/Q-Mobile/QGrid)** The missing SwiftUI collection view.
+* **⏯ [VideoPlayer](https://github.com/wxxsw/VideoPlayer)**, A video player for SwiftUI.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
