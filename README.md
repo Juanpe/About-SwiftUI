@@ -132,6 +132,10 @@ _🌟 most interesting_
 * **[Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056)** by [Thomas Ricouard](https://twitter.com/dimillian)
 * **[SwiftUI vs Compose](https://quickbirdstudios.com/blog/swiftui-vs-android-jetpack-compose/)** by [QuickBird Studios](https://quickbirdstudios.com/)
 * **[Advanced Lists in SwiftUI](https://medium.com/better-programming/meet-greet-advanced-lists-in-swiftui-80ab6f08ca03)**
+* **[GeometryReader to the Rescue](https://swiftui-lab.com/geometryreader-to-the-rescue/)** by [The SwiftUI Lab](https://swiftui-lab.com)
+* **[Inspecting the View Tree - View Preferences](https://swiftui-lab.com/communicating-with-the-view-tree-part-1/)** by [The SwiftUI Lab](https://swiftui-lab.com)
+* **[View Extensions for Better Code Readability](https://swiftui-lab.com/view-extensions-for-better-code-readability/)** by [The SwiftUI Lab](https://swiftui-lab.com)
+* **[ScrollView – Pull to Refresh](https://swiftui-lab.com/scrollview-pull-to-refresh/)** by [The SwiftUI Lab](https://swiftui-lab.com)
 
 #### 📦 Repositories
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
@@ -237,6 +241,7 @@ _🌟 most interesting_
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
 * **[Fucking SwiftUI - SwiftUI Cheat Sheet](https://fuckingswiftui.com)**
 * **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
+* **[The SwiftUI Lab - When the documentation is missing, we experiment](https://swiftui-lab.com)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
