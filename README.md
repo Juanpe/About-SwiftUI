@@ -203,6 +203,7 @@ _🌟 most interesting_
 * **[DrawerView-SwiftUI](https://github.com/totoroyyb/DrawerView-SwiftUI)** A drawer view with certain customizability implemented by SwiftUI.
 * **[SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)** An extension to the standard SwiftUI library.
 * **[SwiftUI-Router](https://github.com/frzi/SwiftUIRouter)**. A routing system proof-of-concept based on React Router.
+* **[⌨️ KeyboardObserving](https://github.com/nickffox/KeyboardObserving)** A Combine-based solution for observing and avoiding the keyboard in SwiftUI.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
