@@ -136,6 +136,7 @@ _🌟 most interesting_
 * **[Inspecting the View Tree - View Preferences](https://swiftui-lab.com/communicating-with-the-view-tree-part-1/)** by [The SwiftUI Lab](https://swiftui-lab.com)
 * **[View Extensions for Better Code Readability](https://swiftui-lab.com/view-extensions-for-better-code-readability/)** by [The SwiftUI Lab](https://swiftui-lab.com)
 * **[ScrollView – Pull to Refresh](https://swiftui-lab.com/scrollview-pull-to-refresh/)** by [The SwiftUI Lab](https://swiftui-lab.com)
+* **[My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555)** by [Abbas T. Khan](https://twitter.com/xtabbas)
 
 #### 📦 Repositories
 * **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies of world.You can quickly convert and make mathematichal operations between currencies
@@ -206,6 +207,7 @@ _🌟 most interesting_
 * **[SwiftUI-Router](https://github.com/frzi/SwiftUIRouter)**. A routing system proof-of-concept based on React Router.
 * **[SwiftUI ColorSlider](https://github.com/workingDog/SwiftUIColorSlider)**. Dynamically select a color from a color gradient slider. 
 * **[⌨️ KeyboardObserving](https://github.com/nickffox/KeyboardObserving)** A Combine-based solution for observing and avoiding the keyboard in SwiftUI.
+* **[☑ Calculator Checklist](https://github.com/xtabbas/calculator-checklist)** Recreation of calculator-checklist project in SwiftUI.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
