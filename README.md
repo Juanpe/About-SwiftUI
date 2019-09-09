@@ -208,6 +208,7 @@ _🌟 most interesting_
 * **[SwiftUI ColorSlider](https://github.com/workingDog/SwiftUIColorSlider)**. Dynamically select a color from a color gradient slider. 
 * **[⌨️ KeyboardObserving](https://github.com/nickffox/KeyboardObserving)** A Combine-based solution for observing and avoiding the keyboard in SwiftUI.
 * **[☑ Calculator Checklist](https://github.com/xtabbas/calculator-checklist)** Recreation of calculator-checklist project in SwiftUI.
+* **[SF](https://github.com/zmeriksen/SF)** A Small SFSymbols SwiftUI Enum.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
