@@ -209,6 +209,7 @@ _🌟 most interesting_
 * **[⌨️ KeyboardObserving](https://github.com/nickffox/KeyboardObserving)** A Combine-based solution for observing and avoiding the keyboard in SwiftUI.
 * **[☑ Calculator Checklist](https://github.com/xtabbas/calculator-checklist)** Recreation of calculator-checklist project in SwiftUI.
 * **[SF](https://github.com/zmeriksen/SF)** A Small SFSymbols SwiftUI Enum.
+* **[Pull to Refresh](https://github.com/AppPear/SwiftUI-PullToRefresh)** SwiftUI pull to refresh for List, NavigationView
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
