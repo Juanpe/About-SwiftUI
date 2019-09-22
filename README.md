@@ -138,6 +138,7 @@ _🌟 most interesting_
 * **[View Extensions for Better Code Readability](https://swiftui-lab.com/view-extensions-for-better-code-readability/)** by [The SwiftUI Lab](https://swiftui-lab.com)
 * **[ScrollView – Pull to Refresh](https://swiftui-lab.com/scrollview-pull-to-refresh/)** by [The SwiftUI Lab](https://swiftui-lab.com)
 * **[My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555)** by [Abbas T. Khan](https://twitter.com/xtabbas)
+* **[SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082)** by [Peter Friese](https://www.twitter.com/peterfriese)
 
 #### 📦 Repositories
 * **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies of world.You can quickly convert and make mathematichal operations between currencies
@@ -243,7 +244,7 @@ _🌟 most interesting_
 * **[SwiftUI and State Management: Part 1](https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-1)**
 * **[SwiftUI and State Management: Part 2](https://www.pointfree.co/episodes/ep66-swiftui-and-state-management-part-2)**
 * **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
-* **[SwiftUI-CSS, The missing CSS-like module for SwiftUI](https://github.com/hite/SwiftUI-CSS)
+* **[SwiftUI-CSS, The missing CSS-like module for SwiftUI](https://github.com/hite/SwiftUI-CSS)**
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
