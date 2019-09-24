@@ -139,6 +139,7 @@ _🌟 most interesting_
 * **[ScrollView – Pull to Refresh](https://swiftui-lab.com/scrollview-pull-to-refresh/)** by [The SwiftUI Lab](https://swiftui-lab.com)
 * **[My takeaway from working with SwiftUI](https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555)** by [Abbas T. Khan](https://twitter.com/xtabbas)
 * **[SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082)** by [Peter Friese](https://www.twitter.com/peterfriese)
+* **[The Simple Life(cycle) of a SwiftUI View](https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2)** by [@dbolella](https://twitter.com/dbolella)
 
 #### 📦 Repositories
 * **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies of world.You can quickly convert and make mathematichal operations between currencies
