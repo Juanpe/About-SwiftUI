@@ -215,6 +215,7 @@ _🌟 most interesting_
 * **[SF](https://github.com/zmeriksen/SF)** A Small SFSymbols SwiftUI Enum.
 * **[Pull to Refresh](https://github.com/AppPear/SwiftUI-PullToRefresh)** SwiftUI pull to refresh for List, NavigationView
 * **[ConnectFour](https://github.com/vsmithers1087/ConnectFour)** A basic Connect Four game built with SwiftUI
+* **[Modal View](http://github.com/diniska/modal-view)** A simple and safe way to display Modal views in SwiftUI
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
