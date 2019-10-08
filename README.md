@@ -169,6 +169,7 @@ _🌟 most interesting_
 * **[injectable](https://github.com/vincent-pradeilles/injectable)**. A micro framework that leverages Swift Property Wrapper to implement the Service Locator pattern.
 * **[SwiftWebImage](https://github.com/geekaurora/SwiftWebImage)**. 🚀SwiftUI image downloader for BindingObject with performant LRU mem/disk cache.
 * **[NetworkImage.swift](https://gist.github.com/ivanbruel/b2838f62cb281bd974ec9c9c121c6cbe)**. Basic NetworkImage support for SwiftUI via Kingfisher
+* **[SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)**. SDWebImage integration for SwiftUI. Supports async image loading, caching, as well as animated image playback like GIF, APNG and Animated WebP.
 * **[SwiftUI-Combine-todo-example](https://github.com/jamfly/SwiftUI-Combine-todo-example)**. A to-do list app using SwiftUI and combine with restful api.
 * **[Bindings.swift](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8)**. Re-implementation of @binding and @State (from SwiftUI) myself to better understand it.
 * **[Contacts.swift](https://gist.github.com/jackhl/632935a2e90e3796e38c2143d5dadc96)**
