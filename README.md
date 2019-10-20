@@ -257,6 +257,7 @@ _🌟 most interesting_
 * **[Fucking SwiftUI - SwiftUI Cheat Sheet](https://fuckingswiftui.com)**
 * **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
 * **[The SwiftUI Lab - When the documentation is missing, we experiment](https://swiftui-lab.com)**
+* **[Hacking with Swift - SwiftUI Article, Video, News](https://www.hackingwithswift.com/quick-start/swiftui/)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
