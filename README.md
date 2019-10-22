@@ -218,6 +218,7 @@ _🌟 most interesting_
 * **[Modal View](http://github.com/diniska/modal-view)** A simple and safe way to display Modal views in SwiftUI
 * **[SwiftUI CompatKit](https://github.com/AmirKamali/SwiftUICompactKit)** 🤘 A framework to add missing UIKit Controls to SwiftUI 🤘
 * **[SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)**. SDWebImage integration for SwiftUI. Supports async image loading, caching, as well as animated image playback like GIF, APNG and Animated WebP.
+* **[FlipClock-SwiftUI](https://github.com/elpassion/FlipClock-SwiftUI)** Flip clock implementation in SwiftUI
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
