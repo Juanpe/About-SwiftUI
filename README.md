@@ -143,6 +143,7 @@ _🌟 most interesting_
 * **[SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082)** by [Peter Friese](https://www.twitter.com/peterfriese)
 * **[The Simple Life(cycle) of a SwiftUI View](https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2)** by [@dbolella](https://twitter.com/dbolella)
 * **[Modal View in SwiftUI](https://medium.com/@diniska/modal-view-in-swiftui-3f9faf910249#d2d0-46626bb2224d)** by [Denis Chashchin](https://medium.com/@diniska/)
+* **[SwiftUI Layout System: An In-Depth Look](https://kean.github.io/post/swiftui-layout-system)** by [Alexander Grebenyuk](https://twitter.com/a_grebenyuk)
 
 #### 🔨 Xcode Extensions
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
