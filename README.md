@@ -199,18 +199,15 @@ _🌟 most interesting_
 * **[🌯🌯 Burritos](https://github.com/guillermomuntaner/Burritos)**. A collection of Swift Property Wrappers (formerly "Property Delegates").
 * **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 * **[SwiftUI-Redux-Todo Example](https://github.com/moflo/SwiftUI-Todo-Redux)** An opinionated React/Redux inspired Todo example.
-* **[FlowStack](https://github.com/johnsusek/FlowStack)**. A grid layout component.
 * **[Currency Converter](https://github.com/alexliubj/SwiftUI-Currency-Converter)**. A Currency converter app.
 * **[bottombar-swiftui](https://github.com/smartvipere75/bottombar-swiftui)**. BottomBar component for SwiftUI
 * **[DealStack](https://github.com/insidegui/DealStack)**. Simple card stack implemented with SwiftUI
 * **[SwiftUI-PathAnimations](https://github.com/adellibovi/SwiftUI-PathAnimations)**. Tools for SwiftUI that helps perform Path and Shape animations
 * **[CombineBookSearch](https://github.com/PPacie/CombineBookSearch)**. SwiftUI + Combine + MVVM architecture.
 * **[YanxuanHD](https://github.com/hite/YanxuanHD/blob/master/README.md)**, The iPad version of '网易严选' iOS app
-* **[📱GridStack](https://github.com/pietropizzi/GridStack)**. A flexible grid layout view for SwiftUI.
 * **[Babylon demo](https://github.com/czajnikowski/Babylon)** MVVM with a project-level separation of layers and a leaf `View` framework.
 * **[RKCalendar](https://github.com/RaffiKian/RKCalendar)** Simple SwiftUI Calendar / Date Picker.
 * **[Morphi](https://github.com/phimage/morphi)** Additional `Shape` for SwiftUI.
-* **🎛 [QGrid](https://github.com/Q-Mobile/QGrid)** The missing SwiftUI collection view.
 * **⏯ [VideoPlayer](https://github.com/wxxsw/VideoPlayer)**, A video player for SwiftUI.
 * **[DrawerView-SwiftUI](https://github.com/totoroyyb/DrawerView-SwiftUI)** A drawer view with certain customizability implemented by SwiftUI.
 * **[SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)** An extension to the standard SwiftUI library.
@@ -226,6 +223,13 @@ _🌟 most interesting_
 * **[SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)**. SDWebImage integration for SwiftUI. Supports async image loading, caching, as well as animated image playback like GIF, APNG and Animated WebP.
 * **[FlipClock-SwiftUI](https://github.com/elpassion/FlipClock-SwiftUI)** Flip clock implementation in SwiftUI
 * **[CountdownFilmClutter-SwiftUI](https://github.com/elpassion/CountdownFilmClutter-SwiftUI)** Old fashioned countdown film clutter in SwiftUI
+
+##### Layout 🎛
+* **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
+* **[QGrid](https://github.com/Q-Mobile/QGrid)** The missing SwiftUI collection view.
+* **[FlowStack](https://github.com/johnsusek/FlowStack)**. A grid layout component.
+* **[GridStack](https://github.com/pietropizzi/GridStack)**. A flexible grid layout view for SwiftUI.
+* **[WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid)**. A waterfall grid layout view for SwiftUI.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
