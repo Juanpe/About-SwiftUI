@@ -223,7 +223,7 @@ _🌟 most interesting_
 * **[SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)**. SDWebImage integration for SwiftUI. Supports async image loading, caching, as well as animated image playback like GIF, APNG and Animated WebP.
 * **[FlipClock-SwiftUI](https://github.com/elpassion/FlipClock-SwiftUI)** Flip clock implementation in SwiftUI
 * **[CountdownFilmClutter-SwiftUI](https://github.com/elpassion/CountdownFilmClutter-SwiftUI)** Old fashioned countdown film clutter in SwiftUI
-* **[SwiftUI-Presentation](https://github.com/barisuyar/SwiftUI-Presentation)** SwiftUI explained in Turkish and prepared a demo application.
+* **🇹🇷[SwiftUI-Presentation](https://github.com/barisuyar/SwiftUI-Presentation)** SwiftUI explained in Turkish and prepared a demo application.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
