@@ -224,6 +224,7 @@ _🌟 most interesting_
 * **[FlipClock-SwiftUI](https://github.com/elpassion/FlipClock-SwiftUI)** Flip clock implementation in SwiftUI
 * **[CountdownFilmClutter-SwiftUI](https://github.com/elpassion/CountdownFilmClutter-SwiftUI)** Old fashioned countdown film clutter in SwiftUI
 * **🇹🇷[SwiftUI-Presentation](https://github.com/barisuyar/SwiftUI-Presentation)** SwiftUI explained in Turkish and prepared a demo application.
+* **[Sliders](https://github.com/SwiftUIExtensions/Sliders)**. Custom sliders and tracks for SwiftUI.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
@@ -231,6 +232,7 @@ _🌟 most interesting_
 * **[FlowStack](https://github.com/johnsusek/FlowStack)**. A grid layout component.
 * **[GridStack](https://github.com/pietropizzi/GridStack)**. A flexible grid layout view for SwiftUI.
 * **[WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid)**. A waterfall grid layout view for SwiftUI.
+* **[Grid](https://github.com/SwiftUIExtensions/Grid)**. SwiftUI Grid with custom styles.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
