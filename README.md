@@ -225,7 +225,7 @@ _🌟 most interesting_
 * **[CountdownFilmClutter-SwiftUI](https://github.com/elpassion/CountdownFilmClutter-SwiftUI)** Old fashioned countdown film clutter in SwiftUI
 * **🇹🇷[SwiftUI-Presentation](https://github.com/barisuyar/SwiftUI-Presentation)** SwiftUI explained in Turkish and prepared a demo application.
 * **[Sliders](https://github.com/SwiftUIExtensions/Sliders)**. Custom sliders and tracks for SwiftUI.
-* **[Pages](https://github.com/nachonavarro/Pages)** 📖 A lightweight, paging view solution for SwiftUI.
+* **[📖 Pages](https://github.com/nachonavarro/Pages)** A lightweight, paging view solution for SwiftUI.
 
 
 ##### Layout 🎛
