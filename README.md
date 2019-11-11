@@ -226,6 +226,7 @@ _🌟 most interesting_
 * **🇹🇷[SwiftUI-Presentation](https://github.com/barisuyar/SwiftUI-Presentation)** SwiftUI explained in Turkish and prepared a demo application.
 * **[Sliders](https://github.com/SwiftUIExtensions/Sliders)**. Custom sliders and tracks for SwiftUI.
 * **[📖 Pages](https://github.com/nachonavarro/Pages)** A lightweight, paging view solution for SwiftUI.
+* **[🚀 PartialSheet](https://github.com/AndreaMiotto/PartialSheet)** A SwiftUI modifier to show a Partial Modal Sheet based on his content height.
 
 
 ##### Layout 🎛
