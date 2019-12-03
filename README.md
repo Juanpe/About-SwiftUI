@@ -230,6 +230,7 @@ _🌟 most interesting_
 * **[📖 Pages](https://github.com/nachonavarro/Pages)** A lightweight, paging view solution for SwiftUI.
 * **[🚀 PartialSheet](https://github.com/AndreaMiotto/PartialSheet)** A SwiftUI modifier to show a Partial Modal Sheet based on his content height.
 * **[🕒 Clock time picker](https://github.com/workingDog/ClockPicker)**. A clock face with draggable hands to pick the hour and minutes of your date.
+* **🇨🇳 [SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)** Learn how to make WeChat with SwiftUI. 微信 7.0 🟢
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
