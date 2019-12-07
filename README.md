@@ -1,6 +1,6 @@
 ![](Assets/banner_about_swift.jpg)
 
-Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examples, videos and tutorials have appeared. The goal of this repository is to gather all this information having an unique place where looking for info about **SwiftUI**.
+Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examples, videos and tutorials have appeared. The goal of this repository is to gather all this information having a unique place where looking for info about **SwiftUI**.
 
 **SwiftUI** is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift. Build user interfaces for any Apple device using just one set of tools and APIs. With a declarative Swift syntax that’s easy to read and natural to write, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility means your first line of **SwiftUI** code is already the most powerful UI code you’ve ever written.
 
@@ -151,7 +151,7 @@ _🌟 most interesting_
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
 
 #### 📦 Repositories
-* **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies of world.You can quickly convert and make mathematichal operations between currencies
+* **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies in the world. You can quickly convert and make mathematical operations between currencies.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
@@ -180,7 +180,7 @@ _🌟 most interesting_
 * **[SwiftUI-Combine-todo-example](https://github.com/jamfly/SwiftUI-Combine-todo-example)**. A to-do list app using SwiftUI and combine with restful api.
 * **[Bindings.swift](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8)**. Re-implementation of @binding and @State (from SwiftUI) myself to better understand it.
 * **[Contacts.swift](https://gist.github.com/jackhl/632935a2e90e3796e38c2143d5dadc96)**
-* **[CombineUnsplash](https://github.com/vinhnx/CombineUnsplash)**. Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explaination.
+* **[CombineUnsplash](https://github.com/vinhnx/CombineUnsplash)**. Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explanation.
 * **[RemoteImage.swift](https://gist.github.com/alexito4/59436b9ab0489b00fb137a8382f38ea5)**. Rough sketch of SwiftUI RemoteImage using AlamofireImage.
 * **[CombineFeedback](https://github.com/sergdort/CombineFeedback)**. Unidirectional reactive architecture using new Apple Combine framework.
 * **[Harvest](https://github.com/inamiy/Harvest)**. 🌾 Harvest: Apple's Combine.framework + State Machine, inspired by Redux and Elm.
