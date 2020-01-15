@@ -152,7 +152,6 @@ _🌟 most interesting_
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
 
 #### 📦 Repositories
-* **[Weather App with MVVM and CoreML](https://github.com/necatievrenyasar/SwiftUI-WeatherApp)** 🚀 This demo is very simple project, which designed to understand SwiftUI. It includes Main screen, DayList screen and detail screen.
 * **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies in the world. You can quickly convert and make mathematical operations between currencies.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
@@ -233,6 +232,7 @@ _🌟 most interesting_
 * **[🚀 PartialSheet](https://github.com/AndreaMiotto/PartialSheet)** A SwiftUI modifier to show a Partial Modal Sheet based on his content height.
 * **[🕒 Clock time picker](https://github.com/workingDog/ClockPicker)**. A clock face with draggable hands to pick the hour and minutes of your date.
 * **🇨🇳 [SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)** Learn how to make WeChat with SwiftUI. 微信 7.0 🟢
+* **[Weather App with MVVM and CoreML](https://github.com/necatievrenyasar/SwiftUI-WeatherApp)** 🚀 This demo is very simple project, which designed to understand SwiftUI. It includes Main screen, DayList screen and detail screen.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
