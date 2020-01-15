@@ -232,6 +232,7 @@ _🌟 most interesting_
 * **[🚀 PartialSheet](https://github.com/AndreaMiotto/PartialSheet)** A SwiftUI modifier to show a Partial Modal Sheet based on his content height.
 * **[🕒 Clock time picker](https://github.com/workingDog/ClockPicker)**. A clock face with draggable hands to pick the hour and minutes of your date.
 * **🇨🇳 [SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)** Learn how to make WeChat with SwiftUI. 微信 7.0 🟢
+* **[Weather App with MVVM and CoreML](https://github.com/necatievrenyasar/SwiftUI-WeatherApp)** 🚀 This demo is very simple project, which designed to understand SwiftUI. It includes Main screen, DayList screen and detail screen.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
