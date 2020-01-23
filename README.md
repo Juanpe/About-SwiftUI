@@ -1,6 +1,6 @@
 ![](Assets/banner_about_swift.jpg)
 
-Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examples, videos and tutorials have appeared. The goal of this repository is to gather all this information having an unique place where looking for info about **SwiftUI**.
+Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examples, videos and tutorials have appeared. The goal of this repository is to gather all this information having a unique place where looking for info about **SwiftUI**.
 
 **SwiftUI** is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift. Build user interfaces for any Apple device using just one set of tools and APIs. With a declarative Swift syntax that’s easy to read and natural to write, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility means your first line of **SwiftUI** code is already the most powerful UI code you’ve ever written.
 
@@ -82,7 +82,8 @@ _🌟 most interesting_
 * **[Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)** by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[Catalyst by Tutorials](https://store.raywenderlich.com/products/catalyst-by-tutorials)** by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[SwiftUI by Example - Book](https://gumroad.com/l/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
-* **[SwiftUI Views - Visual Quickstart Reference](https://www.bigmountainstudio.com/swiftui-views-book)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
+* **[SwiftUI Animations Quick Start (free) - Visual Quick Start Textbook](https://www.bigmountainstudio.com/swiftui-animations-free)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
+* **[SwiftUI Views Quick Start (free) - Visual Quick Start Reference](https://www.bigmountainstudio.com/free-swiftui-book)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
 * **[Using Combine](https://heckj.github.io/swiftui-notes/)** ([PDF/ePub at Gumroad](https://gum.co/usingcombine) by [Joseph Heck](https://rhonabwy.com/)
 * **🇨🇳[SwiftUI实战，带你入门苹果最新的UI开发框架 | SwiftUI in Action, bring you the latest UI development framework from Apple](https://juejin.im/book/5db6b0fa6fb9a020446c5278)** by [zixiao233](https://juejin.im/user/5daa73b551882508866e973b)
 
@@ -158,7 +159,7 @@ _🌟 most interesting_
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
 
 #### 📦 Repositories
-* **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies of world.You can quickly convert and make mathematichal operations between currencies
+* **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies in the world. You can quickly convert and make mathematical operations between currencies.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
@@ -187,7 +188,7 @@ _🌟 most interesting_
 * **[SwiftUI-Combine-todo-example](https://github.com/jamfly/SwiftUI-Combine-todo-example)**. A to-do list app using SwiftUI and combine with restful api.
 * **[Bindings.swift](https://gist.github.com/AliSoftware/ecb5dfeaa7884fc0ce96178dfdd326f8)**. Re-implementation of @binding and @State (from SwiftUI) myself to better understand it.
 * **[Contacts.swift](https://gist.github.com/jackhl/632935a2e90e3796e38c2143d5dadc96)**
-* **[CombineUnsplash](https://github.com/vinhnx/CombineUnsplash)**. Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explaination.
+* **[CombineUnsplash](https://github.com/vinhnx/CombineUnsplash)**. Exploring SwiftUI + Combine + Result by using Unsplash API, with detailed code explanation.
 * **[RemoteImage.swift](https://gist.github.com/alexito4/59436b9ab0489b00fb137a8382f38ea5)**. Rough sketch of SwiftUI RemoteImage using AlamofireImage.
 * **[CombineFeedback](https://github.com/sergdort/CombineFeedback)**. Unidirectional reactive architecture using new Apple Combine framework.
 * **[Harvest](https://github.com/inamiy/Harvest)**. 🌾 Harvest: Apple's Combine.framework + State Machine, inspired by Redux and Elm.
@@ -237,7 +238,9 @@ _🌟 most interesting_
 * **[📖 Pages](https://github.com/nachonavarro/Pages)** A lightweight, paging view solution for SwiftUI.
 * **[🚀 PartialSheet](https://github.com/AndreaMiotto/PartialSheet)** A SwiftUI modifier to show a Partial Modal Sheet based on his content height.
 * **[🕒 Clock time picker](https://github.com/workingDog/ClockPicker)**. A clock face with draggable hands to pick the hour and minutes of your date.
-* **[Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui)** by [@nallexn](https://twitter.com/nallexn)
+* **🇨🇳 [SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)** Learn how to make WeChat with SwiftUI. 微信 7.0 🟢
+* **[Weather App with MVVM and CoreML](https://github.com/necatievrenyasar/SwiftUI-WeatherApp)** 🚀 This demo is very simple project, which designed to understand SwiftUI. It includes Main screen, DayList screen and detail screen.
+* **[Clean Architecture for SwiftUI](https://github.com/nalexn/clean-architecture-swiftui)** A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
