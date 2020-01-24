@@ -17,6 +17,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
   * [Books](#-books)
   * [Courses](#-courses)
   * [Articles](#-articles)
+  * [Unit Testing](#-unit-testing)
   * [Xcode Extensions](#-xcode-extensions)
   * [Repositories](#-repositories)
   * [Videos](#-videos)
@@ -147,6 +148,12 @@ _🌟 most interesting_
 * **[Modal View in SwiftUI](https://medium.com/@diniska/modal-view-in-swiftui-3f9faf910249#d2d0-46626bb2224d)** by [Denis Chashchin](https://medium.com/@diniska/)
 * **[SwiftUI Layout System: An In-Depth Look](https://kean.github.io/post/swiftui-layout-system)** by [Alexander Grebenyuk](https://twitter.com/a_grebenyuk)
 * **[SwiftUI Data Flow](https://troz.net/post/2019/swiftui-data-flow/)** by [Sarah Reichelt](https://twitter.com/trozware)
+* **[Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
+* **[Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
+
+#### 🤖 Unit Testing
+* **[ViewInspector](https://github.com/nalexn/ViewInspector)** by [@nallexn](https://twitter.com/nallexn)
+* **[Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
 
 #### 🔨 Xcode Extensions
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
@@ -233,6 +240,7 @@ _🌟 most interesting_
 * **[🕒 Clock time picker](https://github.com/workingDog/ClockPicker)**. A clock face with draggable hands to pick the hour and minutes of your date.
 * **🇨🇳 [SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)** Learn how to make WeChat with SwiftUI. 微信 7.0 🟢
 * **[Weather App with MVVM and CoreML](https://github.com/necatievrenyasar/SwiftUI-WeatherApp)** 🚀 This demo is very simple project, which designed to understand SwiftUI. It includes Main screen, DayList screen and detail screen.
+* **[Clean Architecture for SwiftUI](https://github.com/nalexn/clean-architecture-swiftui)** A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
