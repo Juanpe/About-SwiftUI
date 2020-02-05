@@ -243,7 +243,6 @@ _🌟 most interesting_
 * **[Verge](https://github.com/muukii/Verge)** A Store-Pattern based data-flow architecture for iOS Application with UIKit / SwiftUI. Inspired by Redux and Vuex.
 * **[Clean Architecture for SwiftUI](https://github.com/nalexn/clean-architecture-swiftui)** A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
 * **[SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect)** Introspect underlying UIKit components from SwiftUI.
-* **[ChartView](https://github.com/AppPear/ChartView)** ChartView made in SwiftUI.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
