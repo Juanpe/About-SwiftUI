@@ -159,6 +159,7 @@ _🌟 most interesting_
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
 
 #### 📦 Repositories
+* **[100 Days of SwiftUI & Combine](https://github.com/CypherPoet/100-days-of-swiftui-and-combine)** Repo to follow along with _Hacking with Swift_'s [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) Challenge.
 * **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies in the world. You can quickly convert and make mathematical operations between currencies.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
@@ -205,7 +206,7 @@ _🌟 most interesting_
 * **[Weather](https://github.com/niazoff/Weather)**. 🌤 A simple SwiftUI weather app using MVVM.
 * **[Chat](https://github.com/niazoff/Chat)**. 💬 A basic SwiftUI chat app that leverages the new `URLSessionWebSocketTask`.
 * **[toBlockingArray for Combine](https://gist.github.com/jrsonline/dd9799929e1aceb5d99e83fc6ac2b43b)**. Acts like RxBlocking, for writing tests using the Combine framework.
-* **[ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator)**. SwiftUI view that download and display image from URL and displaying Activity Indicator while loading. [Demo](https://github.com/AliAdam/ImageWithActivityIndicatorDemo) 
+* **[ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator)**. SwiftUI view that download and display image from URL and displaying Activity Indicator while loading. [Demo](https://github.com/AliAdam/ImageWithActivityIndicatorDemo)
 * **[🌯🌯 Burritos](https://github.com/guillermomuntaner/Burritos)**. A collection of Swift Property Wrappers (formerly "Property Delegates").
 * **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
 * **[SwiftUI-Redux-Todo Example](https://github.com/moflo/SwiftUI-Todo-Redux)** An opinionated React/Redux inspired Todo example.
@@ -222,7 +223,7 @@ _🌟 most interesting_
 * **[DrawerView-SwiftUI](https://github.com/totoroyyb/DrawerView-SwiftUI)** A drawer view with certain customizability implemented by SwiftUI.
 * **[SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)** An extension to the standard SwiftUI library.
 * **[SwiftUI-Router](https://github.com/frzi/SwiftUIRouter)**. A routing system proof-of-concept based on React Router.
-* **[SwiftUI ColorSlider](https://github.com/workingDog/SwiftUIColorSlider)**. Dynamically select a color from a color gradient slider. 
+* **[SwiftUI ColorSlider](https://github.com/workingDog/SwiftUIColorSlider)**. Dynamically select a color from a color gradient slider.
 * **[⌨️ KeyboardObserving](https://github.com/nickffox/KeyboardObserving)** A Combine-based solution for observing and avoiding the keyboard in SwiftUI.
 * **[☑ Calculator Checklist](https://github.com/xtabbas/calculator-checklist)** Recreation of calculator-checklist project in SwiftUI.
 * **[SF](https://github.com/zmeriksen/SF)** A Small SFSymbols SwiftUI Enum.
