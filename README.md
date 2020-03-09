@@ -245,6 +245,8 @@ _🌟 most interesting_
 * **[SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect)** Introspect underlying UIKit components from SwiftUI.
 * **🗯️ [Lazy-Pop-SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI)** Modifier that allows swiping on any part of the screen to start an interruptible pop animation to the previous view.
 * **🔥 [Login-with-Apple-Firebase-SwiftUI](https://github.com/joehinkle11/Login-with-Apple-Firebase-SwiftUI)** SwiftUI component that handles logging in with Apple into Firebase. Complete tutorial in the README.
+* **[Awesome-SwiftUI](https://github.com/chinsyo/awesome-swiftui) A curated list of awesome SwiftUI tutorials, libraries, videos and articles. 
+
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
