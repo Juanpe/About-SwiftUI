@@ -243,8 +243,8 @@ _🌟 most interesting_
 * **[Verge](https://github.com/muukii/Verge)** A Store-Pattern based data-flow architecture for iOS Application with UIKit / SwiftUI. Inspired by Redux and Vuex.
 * **[Clean Architecture for SwiftUI](https://github.com/nalexn/clean-architecture-swiftui)** A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
 * **[SwiftUI-Introspect](https://github.com/siteline/SwiftUI-Introspect)** Introspect underlying UIKit components from SwiftUI.
-* **[Lazy-Pop-SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI)** Modifier that allows swiping on any part of the screen to start an interruptible pop animation to the previous view.
-* **[Login-with-Apple-Firebase-SwiftUI](https://github.com/joehinkle11/Login-with-Apple-Firebase-SwiftUI)** SwiftUI component that handles logging in with Apple into Firebase. Complete tutorial in the README.
+* **🗯️ [Lazy-Pop-SwiftUI](https://github.com/joehinkle11/Lazy-Pop-SwiftUI)** Modifier that allows swiping on any part of the screen to start an interruptible pop animation to the previous view.
+* **🔥 [Login-with-Apple-Firebase-SwiftUI](https://github.com/joehinkle11/Login-with-Apple-Firebase-SwiftUI)** SwiftUI component that handles logging in with Apple into Firebase. Complete tutorial in the README.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
