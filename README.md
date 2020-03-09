@@ -150,6 +150,7 @@ _🌟 most interesting_
 * **[SwiftUI Data Flow](https://troz.net/post/2019/swiftui-data-flow/)** by [Sarah Reichelt](https://twitter.com/trozware)
 * **[Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
 * **[Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
+* **[8 Amazing SwiftUI Libraries to Use in Your Next Project](https://medium.com/better-programming/8-amazing-swiftui-libraries-to-use-in-your-next-project-52efaf211143)** by [@rudrankriyam](https://twitter.com/rudrankriyam)
 
 #### 🤖 Unit Testing
 * **[ViewInspector](https://github.com/nalexn/ViewInspector)** by [@nallexn](https://twitter.com/nallexn)
