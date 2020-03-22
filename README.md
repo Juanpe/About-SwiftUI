@@ -225,6 +225,7 @@ _🌟 most interesting_
 * **[SwiftUI ColorSlider](https://github.com/workingDog/SwiftUIColorSlider)**. Dynamically select a color from a color gradient slider. 
 * **[⌨️ KeyboardObserving](https://github.com/nickffox/KeyboardObserving)** A Combine-based solution for observing and avoiding the keyboard in SwiftUI.
 * **[☑ Calculator Checklist](https://github.com/xtabbas/calculator-checklist)** Recreation of calculator-checklist project in SwiftUI.
+* **[Arrival](https://github.com/ronan18/Arrival-IOS)** BART app writen entirely with SwiftUI
 * **[SF](https://github.com/zmeriksen/SF)** A Small SFSymbols SwiftUI Enum.
 * **[Pull to Refresh](https://github.com/AppPear/SwiftUI-PullToRefresh)** SwiftUI pull to refresh for List, NavigationView
 * **[ConnectFour](https://github.com/vsmithers1087/ConnectFour)** A basic Connect Four game built with SwiftUI
