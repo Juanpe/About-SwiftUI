@@ -250,6 +250,7 @@ _🌟 most interesting_
 * **🔥 [Login-with-Apple-Firebase-SwiftUI](https://github.com/joehinkle11/Login-with-Apple-Firebase-SwiftUI)** SwiftUI component that handles logging in with Apple into Firebase. Complete tutorial in the README.
 * **[Awesome-SwiftUI](https://github.com/chinsyo/awesome-swiftui)** A curated list of awesome SwiftUI tutorials, libraries, videos and articles. 
 * **[GrowingTextView-SwiftUI](https://github.com/Zaprogramiacz/GrowingTextView)** Growing text view implemetation in SwiftUI
+* **[🚀 ActionOver](https://github.com/AndreaMiotto/ActionOver)** A SwiftUI modifier to show an Action Sheet on iPhone and a Popover on iPad and Mac. Write just once the actions for the menus.
 
 
 ##### Layout 🎛
