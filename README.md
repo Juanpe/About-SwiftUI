@@ -252,7 +252,7 @@ _🌟 most interesting_
 * **[GrowingTextView-SwiftUI](https://github.com/Zaprogramiacz/GrowingTextView)** Growing text view implemetation in SwiftUI
 * **[🚀 ActionOver](https://github.com/AndreaMiotto/ActionOver)** A SwiftUI modifier to show an Action Sheet on iPhone and a Popover on iPad and Mac. Write just once the actions for the menus.
 * **🃏[CardStack](https://github.com/dadalar/SwiftUI-CardStackView)** A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS.
-* **[FloatingTabBar](https://github.com/claudiaeng/FloatingTabBar)
+* **[GrowingTextView-SwiftUI](https://github.com/claudiaeng/FloatingTabBar)** A floating tab bar made in SwiftUI
 
 
 ##### Layout 🎛
