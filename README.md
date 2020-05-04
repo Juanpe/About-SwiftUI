@@ -161,6 +161,7 @@ _🌟 most interesting_
 
 #### 📦 Repositories
 * **[100 Days of SwiftUI & Combine](https://github.com/CypherPoet/100-days-of-swiftui-and-combine)** Repo to follow along with _Hacking with Swift_'s [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) Challenge.
+* **[iOS Calculator Clone for iPadOS using SwiftUI](https://github.com/bofeiw/ios-calculator-clone-for-ipados)** A clone of the native iOS built-in Calculator for iPadOS using SwiftUI, mimicking the native Calculator UI and funtions.
 * **[Currency Converter & Calculator](https://github.com/CurrencyConverterCalculator/iosCCC)** A currency application for most of the currencies in the world. You can quickly convert and make mathematical operations between currencies.
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide. 🚀
