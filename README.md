@@ -253,8 +253,8 @@ _🌟 most interesting_
 * **[🚀 ActionOver](https://github.com/AndreaMiotto/ActionOver)** A SwiftUI modifier to show an Action Sheet on iPhone and a Popover on iPad and Mac. Write just once the actions for the menus.
 * **🃏[CardStack](https://github.com/dadalar/SwiftUI-CardStackView)** A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS.
 * **[Floating Tab Bar](https://github.com/claudiaeng/FloatingTabBar)** A floating tab bar made in SwiftUI
+* **[iOS Calculator Clone for iPadOS using SwiftUI](https://github.com/bofeiw/ios-calculator-clone-for-ipados)** A clone of the native iOS built-in Calculator for iPadOS using SwiftUI, mimicking the native Calculator UI and funtions.
 * **[StepperView](https://github.com/badrinathvm/StepperView)** SwiftUI iOS component for Step Indications
-
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
