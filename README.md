@@ -173,6 +173,7 @@ _🌟 most interesting_
 * **[MyDogs](https://github.com/valvoline/MyDogs)**. A simple SwiftUI example for testing Lists, BindableObject, State management and Network.
 * **[MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)**. SwiftUI & Combine app using MovieDB API.
 * **[CryptoTickerSwiftUI](https://github.com/Dimillian/CryptoTickerSwiftUI)**. Example project using a websocket API and SwiftUI to displays latest BTC-USD trade. (Latest Bitcoin price)
+* **[SwiftUIRedux](https://github.com/geekaurora/SwiftUIRedux)**. Comprehensive Redux library for SwiftUI, ensures State consistency across Stores with type-safe pub/sub pattern.
 * **[SwiftUI-Combine](https://github.com/ra1028/SwiftUI-Combine)**. This is an example project of SwiftUI and Combine using GitHub API.
 * **[SwiftUITimeTravel](https://github.com/timdonnelly/SwiftUITimeTravel)**. An experimental time traveling state store for SwiftUI.
 * **[SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike)**. SwiftUI imitation app interface (Build Jike App with SwiftUI).
