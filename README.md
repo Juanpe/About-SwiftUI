@@ -151,6 +151,8 @@ _🌟 most interesting_
 * **[Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
 * **[Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
 * **[8 Amazing SwiftUI Libraries to Use in Your Next Project](https://medium.com/better-programming/8-amazing-swiftui-libraries-to-use-in-your-next-project-52efaf211143)** by [@rudrankriyam](https://twitter.com/rudrankriyam)
+* **[The Inner Workings of State Properties in SwiftUI](https://medium.com/better-programming/the-inner-workings-of-state-properties-in-swiftui-8409ef39a7bd?source=friends_link&sk=bd2d194a6662b86ed7e5e5a00386a306)** by [Zheng](https://medium.com/@ahzzheng)
+* **[Say Goodbye to SceneDelegate in SwiftUI](https://medium.com/better-programming/say-goodbye-to-scenedelegate-in-swiftui-444173b23015?source=friends_link&sk=a5b7eba78d824d493b9ccd9566ea3e06)** by [Zheng](https://medium.com/@ahzzheng)
 
 #### 🤖 Unit Testing
 * **[ViewInspector](https://github.com/nalexn/ViewInspector)** by [@nallexn](https://twitter.com/nallexn)
