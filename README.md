@@ -260,6 +260,7 @@ _🌟 most interesting_
 * **[StepperView](https://github.com/badrinathvm/StepperView)** SwiftUI iOS component for Step Indications
 * **[🔆 UrbanVillageProjectScreens](https://github.com/10011-Studio/UrbanVillageProjectScreens)** Recreations of the Urban Village Project concept screens.
 * **[🍱 SharedObject](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)** A new property wrapper for SwiftUI `ObservableObject`.
+* **[📚 BookSearch app using MVVM](https://github.com/trilliwon/bookstand)** A Book Search app using SwiftUI + Combine + MVVM + pagination.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
