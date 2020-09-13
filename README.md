@@ -28,11 +28,10 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 #### 🚧 Beta Software
 
-* **[Xcode 11 Beta](https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip)**
-* **[iOS 13 Beta](https://developer.apple.com/download/#ios-restore-images-iphone-new)**
-* **[iPadOS 13 Beta](https://developer.apple.com/download/#ios-restore-images-ipad-new)**
-* **[MacOS Catalina 10.15 Beta](https://developer.apple.com/services-account/download?path=/WWDC_2019/macOS_10.15_Developer_Beta_Access_Utility/macOSDeveloperBetaAccessUtility.dmg)**
-* **[watchOS 6 Beta](https://developer.apple.com/services-account/download?path=/WWDC_2019/watchOS_6_beta_Configuration_Profile/watchOS_6_Beta_Profilemobileconfig.mobileconfig)**
+* **[Xcode 12 Beta Download](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_12_beta_6/Xcode_12_beta_6.xip)**
+* **[iOS & iPadOS Beta](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14-beta-release-notes)**
+* **[macOS Big Sur Beta Download](https://betaprofiles.com/macos11)**
+* **[watchOS 7 Beta](https://www.apple.com/watchos/watchos-preview/)**
 
 #### 📚 Documentation
 * **[SwiftUI](https://developer.apple.com/xcode/swiftui/)**
