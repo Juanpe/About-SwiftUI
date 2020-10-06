@@ -260,6 +260,7 @@ _🌟 most interesting_
 * **[🔆 UrbanVillageProjectScreens](https://github.com/10011-Studio/UrbanVillageProjectScreens)** Recreations of the Urban Village Project concept screens.
 * **[🍱 SharedObject](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)** A new property wrapper for SwiftUI `ObservableObject`.
 * **[🧭 BetterSafariView](https://github.com/stleamist/BetterSafariView)** A better way to present a `SFSafariViewController` or start a `ASWebAuthenticationSession` in SwiftUI.
+* **[MGFlipView](https://github.com/Zaprogramiacz/MGFlipView)** allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
