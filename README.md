@@ -8,21 +8,22 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 ### Table of contents
 
-* [ by Apple](#-by-apple)
-  * [Beta Software](#-beta-software)
-  * [Documentation](#-documentation)
-  * [WWDC Videos](#-wwdc-videos)
-  * [Tutorials](#-tutorials)
-* [By the community](#-by-the-community)
-  * [Books](#-books)
-  * [Courses](#-courses)
-  * [Articles](#-articles)
-  * [Unit Testing](#-unit-testing)
-  * [Xcode Extensions](#-xcode-extensions)
-  * [Repositories](#-repositories)
-  * [Videos](#-videos)
-  * [Websites](#-websites)
-* [Contributing](#-contributing)
+- [ by Apple](#-by-apple)
+    - [🚧 Beta Software](#-beta-software)
+    - [📚 Documentation](#-documentation)
+    - [📹 WWDC videos](#-wwdc-videos)
+    - [👩🏼‍🏫 Tutorials](#-tutorials)
+- [🌎 by the community](#-by-the-community)
+    - [📗 Books](#-books)
+    - [🎓 Courses](#-courses)
+    - [📰 Articles](#-articles)
+    - [🤖 Unit Testing](#-unit-testing)
+    - [🔨 Xcode Extensions](#-xcode-extensions)
+    - [📦 Repositories](#-repositories)
+      - [Layout 🎛](#layout-)
+    - [🖥 Videos](#-videos)
+    - [🔗 Websites](#-websites)
+    - [❤️ Contributing](#️-contributing)
 
 ##  by Apple
 
@@ -51,15 +52,29 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 #### 📹 WWDC videos
 
-* **[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)**
-* **[SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)** 🌟
-* **[Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)**
-* **[Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237)** 🌟
-* **[Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231)**
-* **[Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238)**
-* **[SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240)**
-* **[SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)**
-* **[Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)**
+- **2️⃣0️⃣2️⃣0️⃣**
+    - **[Build SwiftUI apps for tvOS](https://developer.apple.com/videos/play/wwdc2020/10042/)**
+    - **[Build complications in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10048/)**
+    - **[Introduction to SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10119/)**
+    - **[What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10041/)**
+    - **[App essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10037/)**
+    - **[Visually edit SwiftUI views](https://developer.apple.com/videos/play/wwdc2020/10185/)**
+    - **[Build a SwiftUI view in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2020/10643/)**
+    - **[Build document-based apps in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10039/)**
+    - **[Stacks, Grids, and Outlines in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10031/)**
+    - **[Build SwiftUI views for widgets](https://developer.apple.com/videos/play/wwdc2020/10033/)**
+    - **[Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)**
+    - **[Structure your app for SwiftUI previews](https://developer.apple.com/videos/play/wwdc2020/10149/)**
+- **2️⃣0️⃣1️⃣9️⃣**
+    - **[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)**
+    - **[SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)** 🌟
+    - **[Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)**
+    - **[Building Custom Views with SwiftUI](https://developer.apple.com/videos/play/wwdc2019/237)** 🌟
+    - **[Integrating SwiftUI](https://developer.apple.com/videos/play/wwdc2019/231)**
+    - **[Accessibility in SwiftUI](https://developer.apple.com/videos/play/wwdc2019/238)**
+    - **[SwiftUI On All Devices](https://developer.apple.com/videos/play/wwdc2019/240)**
+    - **[SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)**
+    - **[Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)**
 
 _🌟 most interesting_
 
@@ -262,6 +277,7 @@ _🌟 most interesting_
 * **[🍱 SharedObject](https://github.com/lorenzofiamingo/SwiftUI-SharedObject)** A new property wrapper for SwiftUI `ObservableObject`.
 * **[🧭 BetterSafariView](https://github.com/stleamist/BetterSafariView)** A better way to present a `SFSafariViewController` or start a `ASWebAuthenticationSession` in SwiftUI.
 * **[MGFlipView](https://github.com/Zaprogramiacz/MGFlipView)** allows to create flipping view in easy way without worrying about flipping animation and flipping logic.
+* **[SwiftUIListSeparator](https://github.com/SchmidtyApps/SwiftUIListSeparator)** View extension to hide/modify List separators in SwiftUI iOS13 and iOS14.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
