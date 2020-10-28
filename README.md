@@ -110,6 +110,7 @@ _🌟 most interesting_
 #### 📰 Articles
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
+* **[SwiftUI tips and tricks](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[Higher-Order-Components in SwiftUI](https://medium.com/@andreivillasana/swiftui-reusable-components-higher-order-components-192c65375c36?postPublishedType=initial)** by [Andrei Villasana](https://www.linkedin.com/in/andrei-villasana-5a06a2119/)
 * **[SwiftUI’s relationship to UIKit and AppKit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
 * **[Answers to the most common questions about SwiftUI](https://wwdcbysundell.com/2019/swiftui-common-questions/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
@@ -168,10 +169,17 @@ _🌟 most interesting_
 * **[8 Amazing SwiftUI Libraries to Use in Your Next Project](https://medium.com/better-programming/8-amazing-swiftui-libraries-to-use-in-your-next-project-52efaf211143)** by [@rudrankriyam](https://twitter.com/rudrankriyam)
 * **[The Inner Workings of State Properties in SwiftUI](https://medium.com/better-programming/the-inner-workings-of-state-properties-in-swiftui-8409ef39a7bd?source=friends_link&sk=bd2d194a6662b86ed7e5e5a00386a306)** by [Zheng](https://medium.com/@ahzzheng)
 * **[Say Goodbye to SceneDelegate in SwiftUI](https://medium.com/better-programming/say-goodbye-to-scenedelegate-in-swiftui-444173b23015?source=friends_link&sk=a5b7eba78d824d493b9ccd9566ea3e06)** by [Zheng](https://medium.com/@ahzzheng)
+* **[Infinite List Scroll with SwiftUI and Combine](https://www.vadimbulavin.com/infinite-list-scroll-swiftui-combine/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
+* **[View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
+* **[SwiftUI Previews at Scale](https://www.vadimbulavin.com/swiftui-previews-at-scale/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
+* **[Using UIView and UIViewController in SwiftUI](https://www.vadimbulavin.com/using-uikit-uiviewcontroller-and-uiview-in-swiftui/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
 
 #### 🤖 Unit Testing
 * **[ViewInspector](https://github.com/nalexn/ViewInspector)** by [@nallexn](https://twitter.com/nallexn)
 * **[Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
+
+#### 📱 UI Testing
+* **[Testinf SwiftUI Views](https://www.vadimbulavin.com/snapshot-testing-swiftui-views/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
 
 #### 🔨 Xcode Extensions
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
@@ -319,6 +327,7 @@ _🌟 most interesting_
 * **[SwiftUI and State Management: Part 2](https://www.pointfree.co/episodes/ep66-swiftui-and-state-management-part-2)**
 * **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
 * **[SwiftUI-CSS, The missing CSS-like module for SwiftUI](https://github.com/hite/SwiftUI-CSS)**
+* **[SwiftUI Live: Building an app from scratch](https://www.youtube.com/watch?v=SroTB1buuD0)**
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
