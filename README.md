@@ -49,6 +49,8 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
     * **[Gestures](https://developer.apple.com/documentation/swiftui/gestures)**. Define interactions from taps, clicks, and swipes to fine-grained gestures.
   * **Previews in Xcode**
     * **[Previews](https://developer.apple.com/documentation/swiftui/previews)**. Generate dynamic, interactive previews of your custom views.
+  * **Develop Apps with SwiftUI**
+    * **[Develop Apps with SwiftUI](https://developer.apple.com/tutorials/app-dev-training)**. Create apps using SwiftUI and Xcode. Build Scrumdinger, an app that keeps track of daily scrums.
 
 #### 📹 WWDC videos
 
