@@ -291,6 +291,7 @@ _🌟 most interesting_
 * **[InfiniteScroller](https://github.com/cointowitcher/InfiniteScroller)** Horizontal and Vertical collection view for infinite scrolling that was designed to be used in SwiftUI 
 * **[SwiftUI Tooltip](https://github.com/quassummanus/SwiftUI-Tooltip)** SwiftUI Tooltip implementation that works on all platforms and supports SwiftUI v1.0
 * **[SVG to SwiftUI](https://github.com/quassummanus/SVG-to-SwiftUI)** SVG to SwiftUI Shape converter
+* **[Clendar](https://github.com/vinhnx/Clendar)** Clendar is an open-source & universal calendar app, written in SwiftUI.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
