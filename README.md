@@ -30,7 +30,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 #### 🚧 Beta Software
 
 * **[Xcode 12 Beta Download](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_12_beta_6/Xcode_12_beta_6.xip)**
-* **[iOS & iPadOS Beta](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14-beta-release-notes)**
+* **[iOS & iPadOS Beta](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14-release-notes)**
 * **[macOS Big Sur Beta Download](https://betaprofiles.com/macos11)**
 * **[watchOS 7 Beta](https://www.apple.com/watchos/watchos-preview/)**
 
@@ -105,9 +105,9 @@ _🌟 most interesting_
 
 #### 🎓 Courses
 * **[Learn SwiftUI](https://designcode.io/swiftui-course)**. by [Meng To](https://twitter.com/mengto)
-* **[SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/?couponCode=JUANGITHUB)** . by [DevTechie Interactive](https://www.udemy.com/user/anoop-tomar/)
+* **[SwiftUI Masterclass 2021 - iOS 14 App Development & Swift 5](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)** . by [Robert Petras](https://www.linkedin.com/in/robertpetras/)
 * **🇨🇳[SwiftUI 中文教程 - SwiftUI-Tutorials](https://github.com/WillieWangWei/SwiftUI-Tutorials)**. by [WillieWangWei](https://github.com/WillieWangWei)
-* **[SwiftUI - The Complete Developer Course](https://www.udemy.com/share/102VaMAkofc1pbRHo=/)**. by [Stephen DeStefano](linkedin.com/in/stephen-destefano-973583193)
+* **[SwiftUI - The Complete Developer Course](https://www.udemy.com/share/102VaMAkofc1pbRHo=/)**. by [Stephen DeStefano](https://www.linkedin.com/in/stephen-destefano-973583193/)
 
 #### 📰 Articles
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
@@ -141,8 +141,8 @@ _🌟 most interesting_
 * **[Intro to SwiftUI — Part 1](https://medium.com/@suyash.srijan/intro-to-swiftui-part-1-47361a3ffb2e)** by [Suyash Srijan](https://twitter.com/suyashsrijan)
 * **[How to build a Chat App or Messenger in SwiftUI for iOS Swift](https://medium.com/@halavins/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab)** by [Nick Halavins](https://twitter.com/AntiLand_com)
 * **[SwiftUI: Getting Started](https://www.raywenderlich.com/3715234-swiftui-getting-started)** by [Ray wenderlich](https://www.raywenderlich.com/)
-* **[SwiftUI meets Kotlin Multiplatform!](https://johnoreilly.dev/2019/06/08/swiftui-meetings-kotlin-multiplatform.html)** by [johnoreilly.dev](https://www.twitter.com/joreilly)
-* **[Understanding the SwiftUI Sample](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
+* **[SwiftUI meets Kotlin Multiplatform!](https://johnoreilly.dev/2019/06/08/swiftui-meetings-kotlin-multiplatform/)** by [johnoreilly.dev](https://www.twitter.com/joreilly)
+* **[Understanding the SwiftUI Sample](https://ruiper-es.ghost.io/understanding-the-swiftui-sample/)** by [Rui Peres](https://twitter.com/peres)
 * **🇨🇳 [SwiftUI - First experience](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/swiftui-程式開發初體驗-aea9122741b1)** by [彼得潘的 iOS App Neverland](https://medium.com/@apppeterpan)
 * **[SwiftUI Will Change More Than How We Code](https://www.prolificinteractive.com/2019/06/07/swiftui-will-change-more-than-how-we-code/)** by [Harlan Kellaway](https://github.com/hkellaway) for [Prolific Interactive](https://twitter.com/weareprolific)
 * **[What’s this “some” in SwiftUI?](https://medium.com/@PhiJay/whats-this-some-in-swiftui-34e2c126d4c4)** by [Mischa Hildebrand](https://twitter.com/DerHildebrand)
@@ -169,7 +169,7 @@ _🌟 most interesting_
 * **[Clean Architecture for SwiftUI](https://nalexn.github.io/clean-architecture-swiftui/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
 * **[Programmatic navigation in SwiftUI project](https://nalexn.github.io/swiftui-deep-linking/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
 * **[8 Amazing SwiftUI Libraries to Use in Your Next Project](https://medium.com/better-programming/8-amazing-swiftui-libraries-to-use-in-your-next-project-52efaf211143)** by [@rudrankriyam](https://twitter.com/rudrankriyam)
-* **[The Inner Workings of State Properties in SwiftUI](https://medium.com/better-programming/the-inner-workings-of-state-properties-in-swiftui-8409ef39a7bd?source=friends_link&sk=bd2d194a6662b86ed7e5e5a00386a306)** by [Zheng](https://medium.com/@ahzzheng)
+* **[The Inner Workings of State Properties in SwiftUI](https://medium.com/better-programming/the-inner-workings-of-state-properties-in-swiftui-8409ef39a7bd?source=friends_link&sk=bd2d194a6662b86ed7e5e5a00386a306)** by [Zheng](https://aheze.medium.com/)
 * **[Say Goodbye to SceneDelegate in SwiftUI](https://medium.com/better-programming/say-goodbye-to-scenedelegate-in-swiftui-444173b23015?source=friends_link&sk=a5b7eba78d824d493b9ccd9566ea3e06)** by [Zheng](https://medium.com/@ahzzheng)
 * **[Infinite List Scroll with SwiftUI and Combine](https://www.vadimbulavin.com/infinite-list-scroll-swiftui-combine/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
 * **[View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
@@ -211,7 +211,7 @@ _🌟 most interesting_
 * **[SwiftUICalculator](https://github.com/hotchner/SwiftUICalculator)**. A calculator app using SwiftUI which is introduced in WWDC19.
 * **[InstaFake-Swift-UI](https://github.com/leavenstee/InstaFake-Swift-UI)**. Swift UI Demo for an instagram copy.
 * **[SwiftUITheme](https://github.com/bellots/SwiftUITheme)**. A first idea to style SwiftUI Views.
-* **[Lists_-_Navigation_SwiftUI](https://github.com/swifterH/Lists_-_Navigation_SwiftUI)**. Exploration of Apple Developer's SwiftUI tutorial, detailing how to build lists and enable navigation between views with #SwiftUI.
+* **[Lists_-_Navigation_SwiftUI](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)**. Exploration of Apple Developer's SwiftUI tutorial, detailing how to build lists and enable navigation between views with #SwiftUI.
 * **[injectable](https://github.com/vincent-pradeilles/injectable)**. A micro framework that leverages Swift Property Wrapper to implement the Service Locator pattern.
 * **[SwiftWebImage](https://github.com/geekaurora/SwiftWebImage)**. 🚀SwiftUI image downloader for BindingObject with performant LRU mem/disk cache.
 * **[NetworkImage.swift](https://gist.github.com/ivanbruel/b2838f62cb281bd974ec9c9c121c6cbe)**. Basic NetworkImage support for SwiftUI via Kingfisher
@@ -265,7 +265,7 @@ _🌟 most interesting_
 * **[FlipClock-SwiftUI](https://github.com/elpassion/FlipClock-SwiftUI)** Flip clock implementation in SwiftUI
 * **[CountdownFilmClutter-SwiftUI](https://github.com/elpassion/CountdownFilmClutter-SwiftUI)** Old fashioned countdown film clutter in SwiftUI
 * **🇹🇷[SwiftUI-Presentation](https://github.com/barisuyar/SwiftUI-Presentation)** SwiftUI explained in Turkish and prepared a demo application.
-* **[Sliders](https://github.com/SwiftUIExtensions/Sliders)**. Custom sliders and tracks for SwiftUI.
+* **[Sliders](https://github.com/spacenation/swiftui-sliders)**. Custom sliders and tracks for SwiftUI.
 * **[📖 Pages](https://github.com/nachonavarro/Pages)** A lightweight, paging view solution for SwiftUI.
 * **[🚀 PartialSheet](https://github.com/AndreaMiotto/PartialSheet)** A SwiftUI modifier to show a Partial Modal Sheet based on his content height.
 * **[🕒 Clock time picker](https://github.com/workingDog/ClockPicker)**. A clock face with draggable hands to pick the hour and minutes of your date.
