@@ -181,7 +181,7 @@ _🌟 most interesting_
 * **[Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
 
 #### 📱 UI Testing
-* **[Testinf SwiftUI Views](https://www.vadimbulavin.com/snapshot-testing-swiftui-views/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
+* **[Testing SwiftUI Views](https://www.vadimbulavin.com/snapshot-testing-swiftui-views/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
 
 #### 🔨 Xcode Extensions
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
@@ -341,6 +341,9 @@ _🌟 most interesting_
 * **[Gi Sheet - Ultimate SwiftUI Cheat Sheet on github](https://github.com/giridharan-dev/SwiftUi-GiSheet)**
 * **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
 * **[The SwiftUI Lab - When the documentation is missing, we experiment](https://swiftui-lab.com)**
+
+### 📱 Apps
+* **[DetailsPro - Design tool for SwiftUI](https://detailspro.app)**
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
