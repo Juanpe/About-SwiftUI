@@ -344,7 +344,7 @@ _🌟 most interesting_
 * **[Gi Sheet - Ultimate SwiftUI Cheat Sheet on github](https://github.com/giridharan-dev/SwiftUi-GiSheet)**
 * **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
 * **[The SwiftUI Lab - When the documentation is missing, we experiment](https://swiftui-lab.com)**
-* **[SwiftOnTap](https://swiftontap.com)**
+* **[SwiftOnTap – Complete SwiftUI Docs with Examples](https://swiftontap.com)**
 
 ### 📱 Apps
 * **[DetailsPro - Design tool for SwiftUI](https://detailspro.app)**
