@@ -294,7 +294,7 @@ _🌟 most interesting_
 * **[SVG to SwiftUI](https://github.com/quassummanus/SVG-to-SwiftUI)** SVG to SwiftUI Shape converter
 * **[Clendar](https://github.com/vinhnx/Clendar)** Clendar is an open-source & universal calendar app, written in SwiftUI.
 * **[Corona Widget](https://github.com/aaryankotharii/Corona-Widget)** 😷 open-source iOS 14 widget to get latest stats on Covid-19.
-* **[Open Source SwiftUI Documentation](https://github.com/SwiftOnTap/Docs)** 😷 open-source SwiftUI documentation!
+* **[Open Source SwiftUI Documentation](https://github.com/SwiftOnTap/Docs)** 🚀🌎 open-source SwiftUI documentation!
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
