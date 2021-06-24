@@ -54,6 +54,18 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 #### 📹 WWDC videos
 
+- **2️⃣0️⃣2️⃣1️⃣**
+    - **[Add rich graphics to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021-10021)**
+    - **[Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10176)**
+    - **[Meet async/await in Swift](https://developer.apple.com/videos/play/wwdc2021-10132)**
+    - **[What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10018)**
+    - **[Demystify SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10022)**
+    - **[Discover concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10019)**
+    - **[Explore the SF Symbols 3 app](https://developer.apple.com/videos/play/wwdc2021-10288)**
+    - **[SF Symbols in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10349)**
+    - **[SwiftUI Accessibility: Beyond the basics](https://developer.apple.com/videos/play/wwdc2021-10119)**
+    - **[Direct and reflect focus in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10023)**
+    - **[Localize your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021-10220)**
 - **2️⃣0️⃣2️⃣0️⃣**
     - **[Build SwiftUI apps for tvOS](https://developer.apple.com/videos/play/wwdc2020/10042/)**
     - **[Build complications in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10048/)**
