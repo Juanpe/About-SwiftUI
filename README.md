@@ -29,11 +29,10 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 #### 🚧 Beta Software
 
-* **[Xcode 13 Beta Dounload](https://developer.apple.com/download/)
-* **[Xcode 12 Beta Download](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_12_beta_6/Xcode_12_beta_6.xip)**
-* **[iOS & iPadOS Beta](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14-release-notes)**
-* **[macOS Big Sur Beta Download](https://betaprofiles.com/macos11)**
-* **[watchOS 7 Beta](https://www.apple.com/watchos/watchos-preview/)**
+* **[Xcode 13 Download](https://developer.apple.com/xcode/)**
+* **[iOS & iPadOS 15 Beta (coming soon)](https://beta.apple.com/sp/betaprogram/)**
+* **[macOS Monterey Beta (coming soon)](https://beta.apple.com/sp/betaprogram/)**
+* **[watchOS 8 Beta (coming soon)](https://beta.apple.com/sp/betaprogram/)**
 
 #### 📚 Documentation
 * **[SwiftUI](https://developer.apple.com/xcode/swiftui/)**
@@ -55,6 +54,18 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 #### 📹 WWDC videos
 
+- **2️⃣0️⃣2️⃣1️⃣**
+    - **[Add rich graphics to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021-10021)**
+    - **[Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10176)**
+    - **[Meet async/await in Swift](https://developer.apple.com/videos/play/wwdc2021-10132)**
+    - **[What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10018)**
+    - **[Demystify SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10022)**
+    - **[Discover concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10019)**
+    - **[Explore the SF Symbols 3 app](https://developer.apple.com/videos/play/wwdc2021-10288)**
+    - **[SF Symbols in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10349)**
+    - **[SwiftUI Accessibility: Beyond the basics](https://developer.apple.com/videos/play/wwdc2021-10119)**
+    - **[Direct and reflect focus in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10023)**
+    - **[Localize your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021-10220)**
 - **2️⃣0️⃣2️⃣0️⃣**
     - **[Build SwiftUI apps for tvOS](https://developer.apple.com/videos/play/wwdc2020/10042/)**
     - **[Build complications in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10048/)**
@@ -295,6 +306,9 @@ _🌟 most interesting_
 * **[SVG to SwiftUI](https://github.com/quassummanus/SVG-to-SwiftUI)** SVG to SwiftUI Shape converter
 * **[Clendar](https://github.com/vinhnx/Clendar)** Clendar is an open-source & universal calendar app, written in SwiftUI.
 * **[Corona Widget](https://github.com/aaryankotharii/Corona-Widget)** 😷 open-source iOS 14 widget to get latest stats on Covid-19.
+* **[URL-Image](https://github.com/dmytro-anokhin/url-image)** 🔗 Open-source solution for quickly displaying `Images` via URL.
+* **[SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols)** A SF Symbols enum that safely automatically updates upon build.
+* **[Confetti-View](https://github.com/benlmyers/confetti-view)** 🎉 A simple confetti view for apps using SwiftUI.
 * **[Open Source SwiftUI Documentation](https://github.com/SwiftOnTap/Docs)** 🚀🌎 open-source SwiftUI documentation!
 
 ##### Layout 🎛
