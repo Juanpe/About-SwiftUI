@@ -201,6 +201,7 @@ _🌟 most interesting_
 
 #### 🔨 Xcode Extensions
 * **[nef](https://github.com/bow-swift/nef-plugin)** - This Xcode extension enables you to make a code selection and export it to a snippets. __Available on Mac App Store__.
+* **[SwiftUI Recipes](https://github.com/globulus/swiftui-recipes-companion)** - companion app and Xcode extension for adding 70+ community-sourced SwiftUI recipes to your code. __Available on Mac App Store__.
 
 #### 📦 Repositories
 * **[100 Days of SwiftUI & Combine](https://github.com/CypherPoet/100-days-of-swiftui-and-combine)** Repo to follow along with _Hacking with Swift_'s [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) Challenge.
