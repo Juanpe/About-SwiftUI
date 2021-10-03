@@ -90,7 +90,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
     - **[SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)**
     - **[Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)**
 
-_🌟 most interesting_
+_🌟 Most Interesting_
 
 #### 👩🏼‍🏫 Tutorials
 
