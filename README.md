@@ -77,6 +77,8 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
     - **[Build document-based apps in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10039/)**
     - **[Stacks, Grids, and Outlines in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10031/)**
     - **[Build SwiftUI views for widgets](https://developer.apple.com/videos/play/wwdc2020/10033/)**
+    - **[Design great widgets](https://developer.apple.com/videos/play/wwdc2020/10103)**
+    - **[Widget Code-along](https://developer.apple.com/videos/play/wwdc2020/10034/)**
     - **[Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)**
     - **[Structure your app for SwiftUI previews](https://developer.apple.com/videos/play/wwdc2020/10149/)**
 - **2️⃣0️⃣1️⃣9️⃣**
