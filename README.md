@@ -316,6 +316,8 @@ _🌟 most interesting_
 * **[SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols)** A SF Symbols enum that safely automatically updates upon build.
 * **[Confetti-View](https://github.com/benlmyers/confetti-view)** 🎉 A simple confetti view for apps using SwiftUI.
 * **[Open Source SwiftUI Documentation](https://github.com/SwiftOnTap/Docs)** 🚀🌎 open-source SwiftUI documentation!
+* **[SwiftUICharts](https://github.com/mecid/SwiftUICharts)** A simple line and bar charting library that supports accessibility written using SwiftUI.
+* **[MarkdownUI](https://github.com/gonzalezreal/MarkdownUI)** Render Markdown text in SwiftUI.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
