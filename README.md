@@ -117,6 +117,8 @@ _🌟 most interesting_
 * **[Combine Mastery in SwiftUI](https://www.bigmountainstudio.com/combine)** by [Big Mountain Studio](https://twitter.com/bigmtnstudio)
 * **[Using Combine](https://heckj.github.io/swiftui-notes/)** ([PDF/ePub at Gumroad](https://gum.co/usingcombine) by [Joseph Heck](https://rhonabwy.com/)
 * **🇨🇳[SwiftUI实战，带你入门苹果最新的UI开发框架 - SwiftUI in Action, bring you the latest UI development framework from Apple](https://juejin.im/book/5db6b0fa6fb9a020446c5278)** by [zixiao233](https://juejin.im/user/5daa73b551882508866e973b)
+* **[Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/)** by [objc.io](https://www.objc.io)
+* **[SwiftUI for Absolute Beginners](https://www.amazon.com/SwiftUI-Absolute-Beginners-Program-Controls/dp/1484255151)** by Jayant Varma
 
 #### 🎓 Courses
 * **[Learn SwiftUI](https://designcode.io/swiftui-course)**. by [Meng To](https://twitter.com/mengto)
