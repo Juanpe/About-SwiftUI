@@ -77,6 +77,8 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
     - **[Build document-based apps in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10039/)**
     - **[Stacks, Grids, and Outlines in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10031/)**
     - **[Build SwiftUI views for widgets](https://developer.apple.com/videos/play/wwdc2020/10033/)**
+    - **[Design great widgets](https://developer.apple.com/videos/play/wwdc2020/10103)**
+    - **[Widget Code-along](https://developer.apple.com/videos/play/wwdc2020/10034/)**
     - **[Data Essentials in SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10040/)**
     - **[Structure your app for SwiftUI previews](https://developer.apple.com/videos/play/wwdc2020/10149/)**
 - **2️⃣0️⃣1️⃣9️⃣**
@@ -316,6 +318,8 @@ _🌟 most interesting_
 * **[SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols)** A SF Symbols enum that safely automatically updates upon build.
 * **[Confetti-View](https://github.com/benlmyers/confetti-view)** 🎉 A simple confetti view for apps using SwiftUI.
 * **[Open Source SwiftUI Documentation](https://github.com/SwiftOnTap/Docs)** 🚀🌎 open-source SwiftUI documentation!
+* **[SwiftUICharts](https://github.com/mecid/SwiftUICharts)** A simple line and bar charting library that supports accessibility written using SwiftUI.
+* **[MarkdownUI](https://github.com/gonzalezreal/MarkdownUI)** Render Markdown text in SwiftUI.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
