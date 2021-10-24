@@ -38,7 +38,8 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 * **[SwiftUI](https://developer.apple.com/xcode/swiftui/)**
 * **[Official doc](https://developer.apple.com/documentation/swiftui)**
   * **Essentials**
-    * **[Learn to Make Apps with SwiftUI](https://developer.apple.com/tutorials/swiftui/tutorials)**. Follow a series of guided tutorials to learn to make apps using SwiftUI and Xcode.
+    * **[Introducing SwiftUI](https://developer.apple.com/tutorials/SwiftUI)**. SwiftUI is a modern way to declare user interfaces for any Apple platform. Create beautiful, dynamic apps faster than ever before.
+    * **[App Structure and Behavior](https://developer.apple.com/documentation/swiftui/app-structure-and-behavior)**. Define the entry point and top-level organization of your app.
   * **User Interface**
     * **[Views and Controls](https://developer.apple.com/documentation/swiftui/views_and_controls)**. Present your content onscreen and handle user interactions.
     * **[View Layout and Presentation](https://developer.apple.com/documentation/swiftui/view_layout_and_presentation)**. Combine views in stacks, generate groups and lists of views dynamically, and define view presentations and hierarchy.
