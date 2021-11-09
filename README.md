@@ -9,7 +9,6 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 ### Table of contents
 
 - [ by Apple](#-by-apple)
-    - [🚧 Beta Software](#-beta-software)
     - [📚 Documentation](#-documentation)
     - [📹 WWDC videos](#-wwdc-videos)
     - [👩🏼‍🏫 Tutorials](#-tutorials)
@@ -26,13 +25,6 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
     - [❤️ Contributing](#️-contributing)
 
 ##  by Apple
-
-#### 🚧 Beta Software
-
-* **[Xcode 13 Download](https://developer.apple.com/xcode/)**
-* **[iOS & iPadOS 15 Beta (coming soon)](https://beta.apple.com/sp/betaprogram/)**
-* **[macOS Monterey Beta (coming soon)](https://beta.apple.com/sp/betaprogram/)**
-* **[watchOS 8 Beta (coming soon)](https://beta.apple.com/sp/betaprogram/)**
 
 #### 📚 Documentation
 * **[SwiftUI](https://developer.apple.com/xcode/swiftui/)**
