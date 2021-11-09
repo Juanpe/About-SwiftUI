@@ -15,13 +15,13 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 - [🌎 by the community](#-by-the-community)
     - [📗 Books](#-books)
     - [🎓 Courses](#-courses)
+    - [🔗 Websites](#-websites)
     - [📰 Articles](#-articles)
     - [🤖 Unit Testing](#-unit-testing)
     - [🔨 Xcode Extensions](#-xcode-extensions)
     - [📦 Repositories](#-repositories)
       - [Layout 🎛](#layout-)
     - [🖥 Videos](#-videos)
-    - [🔗 Websites](#-websites)
     - [❤️ Contributing](#️-contributing)
 
 ##  by Apple
@@ -122,6 +122,16 @@ _🌟 most interesting_
 * **[SwiftUI - The Complete Developer Course](https://www.udemy.com/share/102VaMAkofc1pbRHo=/)**. by [Stephen DeStefano](https://www.linkedin.com/in/stephen-destefano-973583193/)
 * **[CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu)**. by [Stanford University](https://www.stanford.edu)
 
+#### 🔗 Websites
+* **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
+* **[Fucking SwiftUI - SwiftUI Cheat Sheet](https://fuckingswiftui.com)**
+* **[Gi Sheet - Ultimate SwiftUI Cheat Sheet on github](https://github.com/giridharan-dev/SwiftUi-GiSheet)**
+* **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
+* **[The SwiftUI Lab - When the documentation is missing, we experiment](https://swiftui-lab.com)**
+* **[SwiftOnTap – Complete SwiftUI Docs with Examples](https://swiftontap.com)**
+* **[SwiftUI Examples for Designers](https://swiftui.design/examples)**
+* **[SwiftUI Tutorials](https://blckbirds.com/swiftui-tutorials/)**
+
 #### 📰 Articles
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
@@ -150,7 +160,6 @@ _🌟 most interesting_
 * **[First impressions of SwiftUI](https://www.cocoawithlove.com/blog/swiftui.html)** by [Matt Gallagher](https://twitter.com/cocoawithlove)
 * **[Playing with SwiftUI Buttons](https://alejandromp.com/blog/2019/06/09/playing-with-swiftui-buttons/)** by [Alejandro Martinez](https://twitter.com/alexito4)
 * **[Jun 9 The Swift 5.1 features that power SwiftUI’s API](https://www.swiftbysundell.com/posts/the-swift-51-features-that-power-swiftuis-api)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
-* **[Everything you need to know about SwiftUI to get started](https://www.blckbirds.com/post/everything-you-need-to-know-about-swiftui)** by [BLCKBRIDS](https://www.blckbirds.com)
 * **[Intro to SwiftUI — Part 1](https://medium.com/@suyash.srijan/intro-to-swiftui-part-1-47361a3ffb2e)** by [Suyash Srijan](https://twitter.com/suyashsrijan)
 * **[How to build a Chat App or Messenger in SwiftUI for iOS Swift](https://medium.com/@halavins/how-to-build-a-chat-app-or-messenger-in-swiftui-for-ios-swift-b46dbe5cc0ab)** by [Nick Halavins](https://twitter.com/AntiLand_com)
 * **[SwiftUI: Getting Started](https://www.raywenderlich.com/3715234-swiftui-getting-started)** by [Ray wenderlich](https://www.raywenderlich.com/)
@@ -355,15 +364,6 @@ _🌟 most interesting_
 * **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
 * **[SwiftUI-CSS, The missing CSS-like module for SwiftUI](https://github.com/hite/SwiftUI-CSS)**
 * **[SwiftUI Live: Building an app from scratch](https://www.youtube.com/watch?v=SroTB1buuD0)**
-
-#### 🔗 Websites
-* **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
-* **[Fucking SwiftUI - SwiftUI Cheat Sheet](https://fuckingswiftui.com)**
-* **[Gi Sheet - Ultimate SwiftUI Cheat Sheet on github](https://github.com/giridharan-dev/SwiftUi-GiSheet)**
-* **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
-* **[The SwiftUI Lab - When the documentation is missing, we experiment](https://swiftui-lab.com)**
-* **[SwiftOnTap – Complete SwiftUI Docs with Examples](https://swiftontap.com)**
-* **[SwiftUI Examples for Designers](https://swiftui.design/examples)**
 
 ### 📱 Apps
 * **[DetailsPro - Design tool for SwiftUI](https://detailspro.app)**
