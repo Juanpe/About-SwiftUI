@@ -322,6 +322,7 @@ _🌟 most interesting_
 * **[Open Source SwiftUI Documentation](https://github.com/SwiftOnTap/Docs)** 🚀🌎 open-source SwiftUI documentation!
 * **[SwiftUICharts](https://github.com/mecid/SwiftUICharts)** A simple line and bar charting library that supports accessibility written using SwiftUI.
 * **[MarkdownUI](https://github.com/gonzalezreal/MarkdownUI)** Render Markdown text in SwiftUI.
+* **[Instasoup](https://github.com/robertherdzik/Instasoup)** Instagram home page SwiftUI implementation.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
