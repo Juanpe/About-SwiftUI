@@ -197,6 +197,7 @@ _🌟 most interesting_
 * **[View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
 * **[SwiftUI Previews at Scale](https://www.vadimbulavin.com/swiftui-previews-at-scale/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
 * **[Using UIView and UIViewController in SwiftUI](https://www.vadimbulavin.com/using-uikit-uiviewcontroller-and-uiview-in-swiftui/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
+* **[How the SwiftUI View Lifecycle and Identity Work](https://doordash.engineering/2022/05/31/how-the-swiftui-view-lifecycle-and-identity-work/)** by [DoorDash Engineering Blog](https://doordash.engineering)
 
 #### 🤖 Unit Testing
 * **[ViewInspector](https://github.com/nalexn/ViewInspector)** by [@nallexn](https://twitter.com/nallexn)
