@@ -46,7 +46,18 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
     * **[Develop Apps with SwiftUI](https://developer.apple.com/tutorials/app-dev-training)**. Create apps using SwiftUI and Xcode. Build Scrumdinger, an app that keeps track of daily scrums.
 
 #### 📹 WWDC videos
-
+- **2️⃣0️⃣2️⃣2️⃣**
+  - **[Hello Swift Charts](https://developer.apple.com/videos/play/wwdc2022/10136/)**
+  - **[The SwiftUI cookbook for navigation](https://developer.apple.com/videos/play/wwdc2022/10054/)**
+  - **[What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2022/10052/)**
+  - **[Compose custom layouts with SwiftUI](https://developer.apple.com/videos/play/wwdc2022/10056/)**
+  - **[Swift Charts: Raise the bar](https://developer.apple.com/videos/play/wwdc2022/10137/)**
+  - **[SwiftUI on iPad: Add toolbars, titles, and more](https://developer.apple.com/videos/play/wwdc2022/110343/)**
+  - **[SwiftUI on iPad: Organize your interface](https://developer.apple.com/videos/play/wwdc2022/10058/)**
+  - **[Use SwiftUI with AppKit](https://developer.apple.com/videos/play/wwdc2022/10075/)**
+  - **[Use SwiftUI with UIKit](https://developer.apple.com/videos/play/wwdc2022/10072/)**
+  - **[Bring multiple windows to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2022/10061/)**
+  - **[Bring multiple windows to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2022/10061/)**
 - **2️⃣0️⃣2️⃣1️⃣**
     - **[Add rich graphics to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021-10021)**
     - **[Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10176)**
