@@ -47,6 +47,15 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
 
 #### 📹 WWDC videos
 
+- **2️⃣0️⃣2️⃣2️⃣**
+    - **[Complications and widgets: Reloaded](https://developer.apple.com/videos/play/wwdc2022/10050/)**
+    - **[Go further with Complications in WidgetKit](https://developer.apple.com/videos/play/wwdc2022/10051/)**
+    - **[What’s new in Wallet and Apple Pay](https://developer.apple.com/videos/play/wwdc2022/10041/)**
+    - **[Efficiency awaits: Background tasks in SwiftUI](https://developer.apple.com/videos/play/wwdc2022/10142/)**
+    - **[What's new in the Photos picker](https://developer.apple.com/videos/play/wwdc2022/10023/)**
+    - **[Use SwiftUI with UIKit](https://developer.apple.com/videos/play/wwdc2022/10072/)**
+    - **[Use SwiftUI with AppKit](https://developer.apple.com/videos/play/wwdc2022/10075/)**
+    - **[Bring multiple windows to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2022/10061/)**
 - **2️⃣0️⃣2️⃣1️⃣**
     - **[Add rich graphics to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021-10021)**
     - **[Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10176)**
