@@ -208,6 +208,7 @@ _🌟 most interesting_
 * **[SwiftUI Previews at Scale](https://www.vadimbulavin.com/swiftui-previews-at-scale/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
 * **[Using UIView and UIViewController in SwiftUI](https://www.vadimbulavin.com/using-uikit-uiviewcontroller-and-uiview-in-swiftui/)** by [Yet Another Swift Blog](https://www.vadimbulavin.com)
 * **[How the SwiftUI View Lifecycle and Identity Work](https://doordash.engineering/2022/05/31/how-the-swiftui-view-lifecycle-and-identity-work/)** by [DoorDash Engineering Blog](https://doordash.engineering)
+* **[Improving SwiftUI Navigation for the Coordinator Pattern](https://johnpatrickmorgan.github.io/2021/07/03/NStack/)** by [John Patrick Morgan Blog](https://johnpatrickmorgan.github.io/)
 
 #### 🤖 Unit Testing
 * **[ViewInspector](https://github.com/nalexn/ViewInspector)** by [@nallexn](https://twitter.com/nallexn)
@@ -334,6 +335,7 @@ _🌟 most interesting_
 * **[SwiftUICharts](https://github.com/mecid/SwiftUICharts)** A simple line and bar charting library that supports accessibility written using SwiftUI.
 * **[MarkdownUI](https://github.com/gonzalezreal/MarkdownUI)** Render Markdown text in SwiftUI.
 * **[Instasoup](https://github.com/robertherdzik/Instasoup)** Instagram home page SwiftUI implementation.
+* **[FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks)** Coordinator pattern in SwiftUI.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
