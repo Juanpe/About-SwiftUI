@@ -383,6 +383,7 @@ _🌟 most interesting_
 ### 📱 Apps
 * **[DetailsPro - Design tool for SwiftUI](https://detailspro.app)**
 * **[Vulcan](https://www.purecreek.com)** An app for creating SwiftUI apps.
+* **[Isowords](https://github.com/pointfreeco/isowords)** Open source game built in SwiftUI and the Composable Architecture..
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
