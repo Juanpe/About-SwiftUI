@@ -338,6 +338,7 @@ _🌟 most interesting_
 * **[MarkdownUI](https://github.com/gonzalezreal/MarkdownUI)** Render Markdown text in SwiftUI.
 * **[Instasoup](https://github.com/robertherdzik/Instasoup)** Instagram home page SwiftUI implementation.
 * **[FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks)** Coordinator pattern in SwiftUI.
+* **[Animation in SwiftUI](https://github.com/mohamedgamal0/Weather)** Animate an IOS Weather App using SwiftUI.
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
