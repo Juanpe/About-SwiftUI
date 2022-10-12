@@ -380,6 +380,9 @@ _🌟 most interesting_
 * **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
 * **[SwiftUI-CSS, The missing CSS-like module for SwiftUI](https://github.com/hite/SwiftUI-CSS)**
 * **[SwiftUI Live: Building an app from scratch](https://www.youtube.com/watch?v=SroTB1buuD0)**
+* **[Dynamic Island - In-App Custom Notification's](https://www.youtube.com/watch?v=RhZwQj9D80c)**
+* **[Dynamic Island - Custom Pull to Refresh](https://www.youtube.com/watch?v=rquj49REEhw)**
+* **[Dynamic Island - Custom Progress View](https://www.youtube.com/watch?v=nK2i7Wt1sUE)**
 
 ### 📱 Apps
 * **[DetailsPro - Design tool for SwiftUI](https://detailspro.app)**
