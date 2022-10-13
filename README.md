@@ -135,7 +135,6 @@ _🌟 most interesting_
 * **[CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu)**. by [Stanford University](https://www.stanford.edu)
 
 #### 🔗 Websites
-* **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
 * **[Fucking SwiftUI - SwiftUI Cheat Sheet](https://fuckingswiftui.com)**
 * **[Gi Sheet - Ultimate SwiftUI Cheat Sheet on github](https://github.com/giridharan-dev/SwiftUi-GiSheet)**
 * **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
