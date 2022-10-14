@@ -35,7 +35,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
   * **User Interface**
     * **[Views and Controls](https://developer.apple.com/documentation/swiftui/views_and_controls)**. Present your content onscreen and handle user interactions.
     * **[View Layout and Presentation](https://developer.apple.com/documentation/swiftui/view_layout_and_presentation)**. Combine views in stacks, generate groups and lists of views dynamically, and define view presentations and hierarchy.
-    * **[Drawing and Animation](https://developer.apple.com/documentation/swiftui/drawing_and_animation)**. Enhance your views with colors, shapes, and shadows, and customize animated transitions between view states.
+    * **[Drawing and Graphics](https://developer.apple.com/documentation/swiftui/drawing-and-graphics)**. Enhance your views with colors, shapes, and shadows, and customize animated transitions between view states.
     * **[Framework Integration](https://developer.apple.com/documentation/swiftui/framework_integration)**. Integrate SwiftUI views into existing apps, and embed AppKit, UIKit, and WatchKit views and controllers into SwiftUI view hierarchies.
   * **Data and Events**
     * **[State and Data Flow](https://developer.apple.com/documentation/swiftui/state_and_data_flow)**. Control and respond to the flow of data and changes within your app’s models.
