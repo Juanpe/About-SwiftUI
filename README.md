@@ -22,6 +22,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
     - [📦 Repositories](#-repositories)
       - [Layout 🎛](#layout-)
     - [🖥 Videos](#-videos)
+    - [🎙 Podcasts](#🎙-podcasts)
     - [❤️ Contributing](#️-contributing)
 
 ##  by Apple
@@ -380,6 +381,9 @@ _🌟 most interesting_
 * **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
 * **[SwiftUI-CSS, The missing CSS-like module for SwiftUI](https://github.com/hite/SwiftUI-CSS)**
 * **[SwiftUI Live: Building an app from scratch](https://www.youtube.com/watch?v=SroTB1buuD0)**
+
+### 🎙 Podcasts
+* **[Swift by Sundell](https://www.swiftbysundell.com/podcast/)**
 
 ### 📱 Apps
 * **[DetailsPro - Design tool for SwiftUI](https://detailspro.app)**
