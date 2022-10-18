@@ -59,6 +59,7 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
   - **[Bring multiple windows to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2022/10061/)**
   - **[Efficiency awaits: Background tasks in SwiftUI](https://developer.apple.com/videos/play/wwdc2022/10142/)**
   - **[Adopt Variable Color in SF Symbols](https://developer.apple.com/videos/play/wwdc2022/10185/)**
+  - **[Build a desktop-class iPad app](https://developer.apple.com/videos/play/wwdc2022/10070/)**
 - **2️⃣0️⃣2️⃣1️⃣**
     - **[Add rich graphics to your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021-10021)**
     - **[Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021-10176)**
