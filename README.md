@@ -338,6 +338,7 @@ _🌟 most interesting_
 * **[MarkdownUI](https://github.com/gonzalezreal/MarkdownUI)** Render Markdown text in SwiftUI.
 * **[Instasoup](https://github.com/robertherdzik/Instasoup)** Instagram home page SwiftUI implementation.
 * **[FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks)** Coordinator pattern in SwiftUI.
+* **[Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)** The Composable Architecture (TCA, for short) is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. It can be used in SwiftUI, UIKit, and more, and on any Apple platform (iOS, macOS, tvOS, and watchOS).
 
 ##### Layout 🎛
 * **[ASCollectionView](https://github.com/apptekstudios/ASCollectionView)** A SwiftUI collection view with support for custom layouts.
@@ -380,6 +381,7 @@ _🌟 most interesting_
 * **[Orient Views Along Circular Motion Path](https://www.youtube.com/watch?v=8V6mLyeWX58)**
 * **[SwiftUI-CSS, The missing CSS-like module for SwiftUI](https://github.com/hite/SwiftUI-CSS)**
 * **[SwiftUI Live: Building an app from scratch](https://www.youtube.com/watch?v=SroTB1buuD0)**
+* **[The Composable Architecture](https://www.pointfree.co/collections/tours/composable-architecture)**
 
 ### 📱 Apps
 * **[DetailsPro - Design tool for SwiftUI](https://detailspro.app)**
