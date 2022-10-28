@@ -213,6 +213,7 @@ _🌟 most interesting_
 * **[Improving SwiftUI Navigation for the Coordinator Pattern](https://johnpatrickmorgan.github.io/2021/07/03/NStack/)** by [John Patrick Morgan Blog](https://johnpatrickmorgan.github.io/)
 
 #### 🤖 Unit Testing
+* **[Writing testable code when using SwiftUI](https://www.swiftbysundell.com/articles/writing-testable-code-when-using-swiftui/)** by [@JohnSundell](https://twitter.com/JohnSundell)
 * **[ViewInspector](https://github.com/nalexn/ViewInspector)** by [@nallexn](https://twitter.com/nallexn)
 * **[Unit testing SwiftUI views](https://nalexn.github.io/swiftui-unit-testing/?utm_source=aboutswiftui)** by [@nallexn](https://twitter.com/nallexn)
 
