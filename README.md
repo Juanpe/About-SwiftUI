@@ -35,13 +35,13 @@ Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examp
   * **User Interface**
     * **[Views and Controls](https://developer.apple.com/documentation/swiftui/views_and_controls)**. Present your content onscreen and handle user interactions.
     * **[View Layout and Presentation](https://developer.apple.com/documentation/swiftui/view_layout_and_presentation)**. Combine views in stacks, generate groups and lists of views dynamically, and define view presentations and hierarchy.
-    * **[Drawing and Animation](https://developer.apple.com/documentation/swiftui/drawing_and_animation)**. Enhance your views with colors, shapes, and shadows, and customize animated transitions between view states.
+    * **[Drawing and Graphics](https://developer.apple.com/documentation/swiftui/drawing-and-graphics)**. Enhance your views with colors, shapes, and shadows, and customize animated transitions between view states.
     * **[Framework Integration](https://developer.apple.com/documentation/swiftui/framework_integration)**. Integrate SwiftUI views into existing apps, and embed AppKit, UIKit, and WatchKit views and controllers into SwiftUI view hierarchies.
   * **Data and Events**
     * **[State and Data Flow](https://developer.apple.com/documentation/swiftui/state_and_data_flow)**. Control and respond to the flow of data and changes within your app’s models.
     * **[Gestures](https://developer.apple.com/documentation/swiftui/gestures)**. Define interactions from taps, clicks, and swipes to fine-grained gestures.
   * **Previews in Xcode**
-    * **[Previews](https://developer.apple.com/documentation/swiftui/previews)**. Generate dynamic, interactive previews of your custom views.
+    * **[Previews](https://developer.apple.com/documentation/swiftui/previews-in-xcode)**. Generate dynamic, interactive previews of your custom views.
   * **Develop Apps with SwiftUI**
     * **[Develop Apps with SwiftUI](https://developer.apple.com/tutorials/app-dev-training)**. Create apps using SwiftUI and Xcode. Build Scrumdinger, an app that keeps track of daily scrums.
 
@@ -135,7 +135,6 @@ _🌟 most interesting_
 * **[CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu)**. by [Stanford University](https://www.stanford.edu)
 
 #### 🔗 Websites
-* **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
 * **[Fucking SwiftUI - SwiftUI Cheat Sheet](https://fuckingswiftui.com)**
 * **[Gi Sheet - Ultimate SwiftUI Cheat Sheet on github](https://github.com/giridharan-dev/SwiftUi-GiSheet)**
 * **[Gosh Darn SwiftUI - SwiftUI Cheat Sheet (work-friendly mirror)](https://goshdarnswiftui.com)**
