@@ -385,6 +385,7 @@ _🌟 most interesting_
 ### 📱 Apps
 * **[DetailsPro - Design tool for SwiftUI](https://detailspro.app)**
 * **[Vulcan](https://www.purecreek.com)** An app for creating SwiftUI apps.
+* **[AC Helper](https://github.com/Dimillian/ACHNBrowserUI)** Animal Crossing New Horizon companion app in SwiftUI.
 
 #### ❤️ Contributing
 Feel free to contribute!! This repo is yours.
